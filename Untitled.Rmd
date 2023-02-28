@@ -1,0 +1,265 @@
+---
+title: "arm_songs"
+author: "shouvik"
+date: "2023-02-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+ ####################################################
+###
+### Special Thanks to 
+### Dr. Gates 
+### for the code of ARM 
+####################################################
+## To perform Association Rule Mining, transaction 
+## data is needed. 
+## MANY libraries will also be required... 
+## 
+## To perform association rule mining, you must have
+## transaction data AND you must create a datafile
+## that presents that data in whatever way your library
+## expects. I will use *basket* here.
+##
+## 
+
+## TO GET this code to work and to get arulesViz to work - 
+## The HOW TO Tutorial for this is above
+## you wil have to carefully and patiently do the following:
+
+## DO these installs once
+## install.packages("arules")
+## For arulesViz to work on R version 3.5.x, you will
+## need to first go through an installation of RTools. 
+## See HOW TO above.
+## Next - once the RTools exe has been downloaded and installed
+## per the instructions, then, do these install.packages here in RStudio:
+#install.packages("TSP")
+#install.packages("data.table")
+## NOTE: If you are asked if you want to INSTALL FROM SOURCE - click YES!
+#install.packages("arulesViz", dependencies = TRUE)
+## IMPORTANT ## arules ONLY grabs rules with ONE item on the right
+## install.packages("sp")
+## NOTE R V3.5.0 does not use the older
+## datasets packages
+## install.packages("datasets.load") - not used here
+## install.packages("ggplot2") - not used here
+
+## install.packages("dplyr", dependencies = TRUE)
+## install.packages("purrr", dependencies = TRUE)
+## install.packages("devtools", dependencies = TRUE)
+## install.packages("tidyr")
+library(htmlwidgets)
+library(viridis)
+library(arules)
+library(TSP)
+library(data.table)
+#library(ggplot2)
+#library(Matrix)
+library(tcltk)
+library(dplyr)
+library(devtools)
+library(purrr)
+library(tidyr)
+## DO THIS ONCE
+## FIRST - you MUST register and log into github
+## install_github("mhahsler/arulesViz")
+## RE: https://github.com/mhahsler/arulesViz
+
+##############
+## IF YOUR CODE BREAKS - TRY THIS
+##
+## Error in length(obj) : Method length not implemented for class rules 
+## DO THIS: 
+## (1) detach("package:arulesViz", unload=TRUE)
+## (2) detach("package:arules", unload=TRUE)
+## (3) library(arules)
+## (4) library(arulesViz)
+###################################################################
+
+## To see if you have tcltk run this on the console...
+# capabilities()["tcltk"]
+library(arulesViz)
+
+
+## YOUR working dir goes here...
+setwd("/Users/shouviksengupta/Rfiles/ML")
+
+
+###################################
+## Example 1: Kumar's Beer Example
+##
+## Dataset: https://drive.google.com/file/d/1BvU3iXtrwxfjBsRShaDgI-Ldh7Y3XSEn/view?usp=sharing
+## KumarGroceriesAS_Transactions
+##
+## ## Dataset:
+## HealthyBasket
+## https://drive.google.com/file/d/1qaWSTwjrj7tNB43zLss9KC_ecJKp6W4g/view?usp=sharing
+###################################################
+
+```
+
+```{r}
+detach("package:arulesViz", unload=TRUE)
+detach("package:arules", unload=TRUE)
+library(arules)
+library(arulesViz)
+```
+
+
+```{r}
+songs <- read.transactions("transaction_data.csv",
+                           rm.duplicates = FALSE, 
+                           format = "basket",  ##if you use "single" also use cols=c(1,2)
+                           sep=",",  ## csv file
+                           cols=NULL) ## The dataset HAS row numbers NULL if not
+inspect(head(songs,2))
+```
+
+
+```{r}
+##### Use apriori to get the RULES
+SrulesK = arules::apriori(songs, parameter = list(support=.05, 
+                                                 confidence=.05, minlen=2))
+inspect(SrulesK)
+
+## Plot of which items are most frequent
+itemFrequencyPlot(songs, topN=20, type="absolute")
+```
+
+
+
+```{r}
+## Sort rules by a measure such as conf, sup, or lift
+SortedRulesK <- sort(SrulesK, by="confidence", decreasing=TRUE)
+inspect(SortedRulesK[1:15])
+(summary(SortedRulesK))
+```
+
+```{r}
+## Sort rules by a measure such as conf, sup, or lift
+SortedRulesK <- sort(SrulesK, by="support", decreasing=TRUE)
+inspect(SortedRulesK[1:15])
+(summary(SortedRulesK))
+```
+
+```{r}
+## Sort rules by a measure such as conf, sup, or lift
+SortedRulesK <- sort(SrulesK, by="lift", decreasing=TRUE)
+inspect(SortedRulesK[1:15])
+(summary(SortedRulesK))
+```
+
+```{r}
+popRules <- apriori(data=songs,parameter = list(supp=.1, conf=.9, minlen=5),
+                       appearance = list(default="lhs", rhs="pop"),
+                       control=list(verbose=FALSE))
+popRules <- sort(popRules, decreasing=TRUE, by="confidence")
+inspect(popRules)
+```
+
+```{r}
+hiphopRules <- apriori(data=songs,parameter = list(supp=.1, conf=.5, minlen=5),
+                       appearance = list(default="lhs", rhs="hiphop"),
+                       control=list(verbose=FALSE))
+hiphopRules <- sort(hiphopRules, decreasing=TRUE, by="confidence")
+inspect(head(hiphopRules,25))
+```
+
+
+
+```{r}
+popRules <- apriori(data=songs,parameter = list(supp=.2, conf=.7, minlen=2),
+                       appearance = list(default="lhs", rhs="pop"),
+                       control=list(verbose=FALSE))
+popRules <- sort(popRules, decreasing=TRUE, by="confidence")
+inspect(popRules)
+```
+
+```{r}
+hiphopRules <- apriori(data=songs,parameter = list(supp=.05, conf=.5, minlen=2),
+                       appearance = list(default="lhs", rhs="hiphop"),
+                       control=list(verbose=FALSE))
+hiphopRules <- sort(hiphopRules, decreasing=TRUE, by="lift")
+inspect(head(hiphopRules,25))
+```
+
+```{r}
+hiphopRules <- apriori(data=songs,parameter = list(supp=.03, conf=.5, minlen=2),
+                       appearance = list(default="lhs", rhs="rock"),
+                       control=list(verbose=FALSE))
+hiphopRules <- sort(hiphopRules, decreasing=TRUE, by="confidence")
+inspect(hiphopRules)
+```
+
+```{r}
+hiphopRules <- apriori(data=songs,parameter = list(supp=.017, conf=0.9, minlen=2),
+                       appearance = list(default="lhs", rhs="eminem"),
+                       control=list(verbose=FALSE))
+hiphopRules <- sort(hiphopRules, decreasing=TRUE, by="support")
+inspect(hiphopRules)
+```
+
+
+```{r}
+
+## Visualize
+## tcltk
+plot(popRules)
+
+#plot(subrules, method="graph", engine="interactive")
+
+# save a plot as a html page
+p <- plotly_arules(rules)
+htmlwidgets::saveWidget(p, "arules.html", selfcontained = FALSE)
+#w <- plot(popRules, method="graph", engine="htmlwidget")
+#saveWidget(p,'poprules.html')
+```
+
+
+
+
+```{r}
+## Visualize
+## tcltk
+plot(hiphopRules)
+
+#plot(subrules, method="graph", engine="interactive")
+plot(hiphopRules, method="graph", engine="htmlwidget")
+```
+
+
+```{r}
+taylorRules <- apriori(data=songs,parameter = list(supp=.01, conf=.5, minlen=2),
+                       appearance = list(default="lhs", rhs="taylorswift"),
+                       control=list(verbose=FALSE))
+taylorRules <- sort(taylorRules, decreasing=TRUE, by="support")
+inspect(taylorRules)
+```
+
+
+```{r}
+taylorRules <- apriori(data=songs,parameter = list(supp=.03, conf=.7, minlen=2),
+                       appearance = list(default="lhs", rhs="edsheeran"),
+                       control=list(verbose=FALSE))
+taylorRules <- sort(taylorRules, decreasing=TRUE, by="lift")
+inspect(taylorRules)
+```
+
+
+
+```{r}
+taylorRules <- apriori(data=songs,parameter = list(supp=.03, conf=.5, minlen=2),
+                       appearance = list(default="lhs", rhs="taylorswift"),
+                       control=list(verbose=FALSE))
+taylorRules <- sort(taylorRules, decreasing=TRUE, by="support")
+inspect(taylorRules)
+```
+
+
+
