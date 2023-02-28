@@ -1,0 +1,128 @@
+---
+title: "cluster_hier"
+author: "shouvik"
+date: "2023-02-27"
+output: html_document
+---
+
+```{R}
+library(stats)  ## for dist
+#https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/dist
+
+## There are many clustering libraries
+#install.packages("NbClust")
+library(NbClust)
+library(cluster)
+library(mclust)
+
+library(amap)  ## for using Kmeans (notice the cap K)
+
+library(factoextra) ## for cluster vis, silhouette, etc.
+library(purrr)
+
+#install.packages("stylo")
+library(stylo)  ## for dist.cosine
+#install.packages("philentropy")
+library(philentropy)  ## for distance() which offers 46 metrics
+## https://cran.r-project.org/web/packages/philentropy/vignettes/Distances.html
+library(SnowballC)
+library(caTools)
+library(dplyr)
+library(textstem)
+library(stringr)
+library(wordcloud)
+library(tm) ## to read in corpus (text data)
+
+```
+
+```{r}
+setwd("/Users/shouviksengupta/Rfiles/ML")
+df<-read.csv("sampled_data.csv")
+
+head(df)
+
+#df2 <- sample_n(df, 20)
+```
+
+```{r}
+features_li = c(
+ 'danceability',
+ 'acousticness',
+ 'energy',
+ 'instrumentalness',
+ 'liveness',
+ 'loudness',
+ 'speechiness',
+ 'tempo')
+df <- df %>% mutate(song_name = substr(name, 1, 15))
+df <- df %>% mutate(genre_name = substr(genres, 1, 15))
+features_df <- df %>% select(features_li)
+labels <- as.vector(df$artist_name)
+song_labels <- as.vector(df$song_name)
+genre_label <- as.vector(df$genre_name)
+```
+
+```{r}
+
+features_df <- scale(features_df, center = TRUE, scale = TRUE)
+features_df %>% head()
+```
+```{r}
+labels
+```
+```{r}
+#######################################################
+## 
+##          Hierarchical CLustering
+## 
+##
+#######################################################
+#
+# Hierarchical clustering with Ward
+# https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/hclust
+#  
+# ward.D2" = Ward's minimum variance method -
+# however dissimilarities are **squared before clustering. 
+# "single" = Nearest neighbours method. 
+# "complete" = distance between two clusters is defined 
+# as the maximum distance between an observation in one.
+####################################################################
+##
+## For hclust, you need a distance matrix
+## You can create any distance matrix you wish...
+##
+## https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/hclust
+####################################################################
+
+
+library(stylo)
+library('stats')
+
+(CosSim <- stylo::dist.cosine(as.matrix(features_df)))
+
+
+hclust_avg <- hclust(CosSim, method="ward.D2")
+cut_avg <- cutree(hclust_avg, k = 4)
+
+plot(hclust_avg, song_labels)
+rect.hclust(hclust_avg , k = 4, border = 2:6)
+abline(h = 4, col = 'red')
+## --------------------------------------------------------------------
+
+```
+
+```{r}
+hclust_avg <- hclust(CosSim, method="ward.D2")
+cut_avg <- cutree(hclust_avg, k = 4)
+
+plot(hclust_avg, labels)
+rect.hclust(hclust_avg , k = 4, border = 2:6)
+abline(h = 4, col = 'red')
+## --------------------------------------------------------------------
+
+```
+
+
+
+
+
