@@ -1,0 +1,51 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+561jH07mF1jHuk7KlaeF0s,Mockingbird,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,True,90,250760,0.637,0.209,0.678,0.0,0.156,-3.798,0.266,84.039,0.254
+5SkRLpaGtvYPhw02vZhQQ9,All Falls Down,"['Kanye West', 'Syleena Johnson']",5K4W6rqBFWDnAN6FQUkS6x,True,77,223506,0.657,0.149,0.734,0.0,0.139,-4.832,0.484,91.03,0.434
+2NBQmPrOEEjA8VbeWOQGxO,Drop It Like It's Hot,"['Snoop Dogg', 'Pharrell Williams']",7hJcb9fa4alzcOq3EaNPoG,True,75,266066,0.888,0.19,0.632,0.0,0.101,-3.872,0.219,91.979,0.662
+5KUNwkaNf8l5A9sXZhiCgI,Rapp Snitch Knishes feat. Mr. Fantastik,['MF DOOM'],2pAWfrd7WFF3XhVt9GooDL,True,75,172893,0.728,0.327,0.832,0.0,0.504,-6.827,0.267,95.051,0.825
+4XHQyvbrBsQaaBUW1VvmsL,My Band,['D12'],5Qi4Bb7a8C0a00NZcA77L0,True,72,298773,0.851,0.497,0.849,2.05e-06,0.116,-3.383,0.0828,120.014,0.844
+3zmduBNsQ6BPDTZAkXzG5K,Can't Be Touched (feat. Mr. Magic & Trouble),"['Roy Jones Jr.', 'Mr Magic', 'Trouble']",5K6YsAKuRtcczPgxAdzc3B,True,71,214400,0.642,0.00323,0.777,0.0,0.227,-4.809,0.094,96.986,0.413
+21O0XXPEWPtePt5RMY93Ob,All Caps,"['Madvillain', 'Madlib', 'MF DOOM']",2aoFQUeHD1U7pL098lRsDU,True,70,130479,0.358,0.266,0.889,1.46e-05,0.172,-8.045,0.335,85.61,0.666
+4mmkhcEm1Ljy1U9nwtsxUo,Through The Wire,['Kanye West'],5K4W6rqBFWDnAN6FQUkS6x,True,72,221226,0.571,0.00865,0.739,5.21e-06,0.158,-6.11,0.247,83.089,0.66
+5CsDo9j3N4yFZNCN1h9loS,Never Enough,"['Eminem', '50 Cent', 'Nate Dogg']",7dGJo4pcD2V6oG8kP0tJRR,True,66,159786,0.777,0.294,0.716,0.0,0.665,-5.327,0.347,95.756,0.593
+7jLbTp3qZzah9kMIdW8e5M,Ghetto Gospel,['2Pac'],1ZwdS5xdxEREPySFridCfh,True,66,238053,0.794,0.0964,0.614,0.0,0.0788,-5.352,0.0467,80.569,0.663
+41PWz0hAiU9FqsmjR9Wh62,Lovers And Friends,"['Lil Jon & The East Side Boyz', 'Usher', 'Ludacris']",3ciRvbBIVz9fBoPbtSYq4x,True,66,260600,0.675,0.0541,0.501,0.0,0.429,-6.183,0.22,139.861,0.532
+2Ozc0me9PV5vlt8cokwdvI,Lean Back,"['Terror Squad', 'Fat Joe', 'Remy Ma']",2BvzbqWWwLN11XGBYgDZzx,True,65,247426,0.783,0.11,0.916,0.0,0.0746,-3.344,0.415,95.321,0.695
+2tOZtdbkAMQASWokLvSlzj,Overnight Celebrity,['Twista'],6vbY3hOaCAhC7VjucswgdS,True,65,233360,0.828,0.182,0.792,0.0,0.281,-5.435,0.179,134.199,0.777
+1fLibtVj3MrNTwRZq5yUOs,Let's Go (feat. Big D & Twista),"['Trick Daddy', 'Bigg D', 'Twista']",12FHARd9fY0Tu0ila4Ua25,True,64,222200,0.748,0.0267,0.767,0.0,0.334,-7.806,0.172,133.929,0.519
+5g1vtHqi9uV7xtYeCcFOBx,Jesus Walks,['Kanye West'],5K4W6rqBFWDnAN6FQUkS6x,True,68,193733,0.637,0.614,0.834,0.0,0.317,-4.686,0.323,87.312,0.715
+3CcvahnsiArpTHYQEWV2Au,Bring Em Out,['T.I.'],4OBJLual30L7gRl5UkeRcT,True,63,216706,0.759,0.0298,0.891,0.0,0.141,-2.983,0.257,98.579,0.587
+67vrmPygrZ9giGqHUSReAT,Accordion,"['Madvillain', 'Madlib', 'MF DOOM']",2aoFQUeHD1U7pL098lRsDU,True,63,118853,0.578,0.0243,0.631,0.0,0.0665,-6.518,0.309,96.332,0.716
+0Qr9Dl5b43RAZuXTSqzBzu,American Psycho II,"['D12', 'B-Real']",5Qi4Bb7a8C0a00NZcA77L0,True,60,224240,0.646,0.403,0.83,0.0,0.138,-4.456,0.32,93.364,0.71
+2b8QQqf8Vwb7bfz22ja8Fk,Over And Over,"['Nelly', 'Tim McGraw']",2gBjLmx6zQnFGQJCAQpRgw,True,60,253933,0.644,0.0065,0.517,1.37e-06,0.158,-10.02,0.0803,169.799,0.464
+4svCVV4VHEL3Z4efES868h,Go DJ,['Lil Wayne'],55Aa2cqylxrFIXC767Z865,True,59,281826,0.736,0.0617,0.792,0.0,0.223,-3.137,0.146,157.955,0.699
+3iNzFuZPs4va5EUrpAFiYt,Loyal To The Game,"['2Pac', '50 Cent', 'Lloyd Banks', 'Young Buck']",1ZwdS5xdxEREPySFridCfh,True,59,203520,0.908,0.116,0.573,0.000547,0.0926,-4.807,0.0871,98.137,0.723
+1Vp4St7JcXaUoJcIahtf3L,The New Workout Plan,['Kanye West'],5K4W6rqBFWDnAN6FQUkS6x,True,59,322800,0.704,0.00981,0.792,0.0,0.365,-4.831,0.198,118.022,0.646
+0B2ZuTLZnWQ6gz8RlNwBu1,On Fire,['Lloyd Banks'],3vDUJHQtqT3jFRZ2ECXDTi,True,59,187280,0.759,0.0923,0.825,0.00057,0.24,-4.289,0.22,94.857,0.429
+3njpLvANriMsdv3dgADEad,Get Back,['Ludacris'],3ipn9JLAPI5GUEo4y4jcoi,True,58,270746,0.555,0.0594,0.639,0.0,0.118,-5.16,0.263,171.609,0.184
+7sZCAHP2duHwr5M5K7lHsb,Selfish,"['Slum Village', 'John Legend', 'Kanye West']",1020a42xVklY6c56imNcaa,True,58,225400,0.71,0.221,0.597,0.0,0.432,-6.468,0.239,95.769,0.49
+5mEwhCsqadBZIE7SSrv1gC,Down And Out,"['Cam’ron', 'Kanye West', 'Syleena Johnson']",7iMvwE8qANp3aIfAGKEAwS,True,58,248626,0.74,0.0232,0.841,0.0,0.111,-2.891,0.237,83.007,0.673
+1GIN41bLhiKeEPeC2vXH8i,Headsprung,['LL COOL J'],1P8IfcNKwrkQP5xJWuhaOC,False,57,267320,0.718,0.0114,0.786,2.5e-05,0.0745,-5.76,0.0284,99.916,0.465
+785t3poQsvdkSeH5xGA9R4,How Come,['D12'],5Qi4Bb7a8C0a00NZcA77L0,True,57,249533,0.745,0.28,0.858,0.0,0.188,-2.221,0.237,89.983,0.547
+7xXvPyOiFCsB5SSpio5g38,New York,"['Ja Rule', 'Fat Joe', 'Jadakiss']",1J2VVASYAamtQ3Bt8wGgA6,True,56,258213,0.546,0.253,0.795,0.0,0.0775,-5.825,0.444,93.221,0.572
+25YwwruYRtxe6RQdKtrZFS,Karma,['Lloyd Banks'],3vDUJHQtqT3jFRZ2ECXDTi,True,55,278533,0.605,0.0392,0.829,0.0,0.196,-2.377,0.444,176.103,0.708
+0Cw5iiA8OHWIhuIIA8u8N5,"Go Hard, Go Home (feat. Giz, Swellz & Choppa)","['Roy Jones Jr.', 'Giz', 'Swellz', 'Choppa']",5K6YsAKuRtcczPgxAdzc3B,True,55,325333,0.595,0.0381,0.714,0.0,0.08,-5.705,0.0609,88.449,0.141
+6Y9kdB2O0h9gq9y2vclsWT,Shorty Wanna Ride,['Young Buck'],4pr7J7wzgObkE3DD3Izi7q,True,55,261320,0.582,0.00317,0.621,0.0,0.111,-6.183,0.283,179.458,0.331
+0NdxbFFknA7kQ4E2zvJfey,Let's Get Blown,['Snoop Dogg'],7hJcb9fa4alzcOq3EaNPoG,True,55,280680,0.94,0.402,0.621,0.079,0.245,-4.615,0.199,106.001,0.694
+0avjVeujL8PYfm8tKKszLH,Ass Like That,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,True,54,265480,0.646,0.409,0.796,0.0,0.107,-6.152,0.366,83.093,0.676
+0Aqlt4N5h6rUtKnd09VXpr,Grillz,"['Nelly', 'Paul Wall', 'Ali & Gipp']",2gBjLmx6zQnFGQJCAQpRgw,True,54,271160,0.863,0.0419,0.514,0.0,0.301,-7.243,0.249,82.985,0.843
+56H98l4uinRifnTH8e308N,Ch-Check It Out,['Beastie Boys'],03r4iKL2g2442PT9n2UKsx,True,53,192426,0.795,0.0766,0.899,0.0,0.0852,-7.02,0.292,115.062,0.694
+1bTphHXspys3RvvRxfzzIc,What U Gon' Do,"['Lil Jon & The East Side Boyz', 'Lil Scrappy']",3ciRvbBIVz9fBoPbtSYq4x,True,53,320186,0.838,7.68e-05,0.724,1.02e-06,0.162,-6.9,0.242,150.192,0.537
+5y8WWi1BaKHXfuln0XoIZs,Sunshine (feat. Anthony Hamilton),"['Twista', 'Anthony Hamilton']",6vbY3hOaCAhC7VjucswgdS,True,52,226013,0.926,0.261,0.888,0.0,0.348,-5.337,0.294,98.523,0.819
+6VixoRqnikN4QqegoKUSbH,Pimpin' All Over The World,"['Ludacris', 'Bobby V.']",3ipn9JLAPI5GUEo4y4jcoi,True,52,329626,0.495,0.287,0.883,0.0,0.138,-4.087,0.299,92.136,0.782
+2XQY54Im8VrO4sd2tAmiv4,Welcome Back,['Mase'],1wiBLzTI7z9RUwEpNPdFT6,False,52,262213,0.764,0.0109,0.744,0.000122,0.318,-2.34,0.181,88.426,0.511
+7x6SuiiH3fcrsAgfkp2OwQ,Sugar (Gimme Some) [feat. Cee-Lo & Ludacris],"['Trick Daddy', 'CeeLo Green', 'Ludacris']",12FHARd9fY0Tu0ila4Ua25,True,52,245106,0.822,0.144,0.673,0.0,0.323,-6.141,0.228,120.02,0.85
+3VXDc9f8J96uBnAAeFrrmw,Some Cut,['Trillville'],3jahzTuztFVegfKXChatkY,True,51,283454,0.9,0.00341,0.515,0.0,0.111,-6.626,0.372,84.995,0.659
+4sqGlfDc7QCPvAvUBk4OKn,Fellin' Myself,['Mac Dre'],4sv6VJ2QZlaSosz3kFlxQH,True,50,224813,0.836,0.0502,0.575,5.45e-05,0.231,-6.483,0.0585,99.985,0.656
+5zEP0MRnDe5qwL361xBz0B,Much More (feat. Yummy),"['De La Soul', 'Yummy Bingham']",1Z8ODXyhEBi3WynYw0Rya6,True,49,245493,0.676,0.0327,0.777,0.0,0.262,-4.459,0.171,92.687,0.372
+5mhMDEk2EAnsq648GEb9io,Caught Up,"['Ja Rule', 'Lloyd']",1J2VVASYAamtQ3Bt8wGgA6,True,49,269133,0.747,0.037,0.711,0.0,0.122,-4.219,0.177,98.948,0.462
+58LflM1owDAzQkYIL7ayCX,Why,"['Jadakiss', 'Anthony Hamilton']",5pnbUBPifNnlusY8kTBivi,True,49,240000,0.602,0.0164,0.938,0.0,0.0612,-3.378,0.238,168.417,0.562
+5IsIwEZYogIGgyutqCLwK7,Heart Of A Champion,"['Nelly', 'Lincoln University Vocal Ensemble']",2gBjLmx6zQnFGQJCAQpRgw,True,48,269986,0.565,0.105,0.945,0.0,0.536,-3.38,0.159,157.754,0.858
+35gqchrol8FU9YYcZguuCL,Just Lose It,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,True,48,248680,0.94,0.0581,0.633,4.04e-05,0.281,-3.56,0.0467,121.003,0.962
+30KGtFjHhlT3JMX5s4IklU,Get No Better (feat. Mashonda),"['Cassidy', 'Mashonda']",3WilJWdCNLSU7fpYjiKb7v,False,48,234853,0.717,0.292,0.597,0.0,0.128,-7.83,0.189,95.018,0.566
+1unbLw4cvR8za4YpHFWcN7,This Way,['Dilated Peoples'],56OMwqr8qaLIRH4ZrvvdXq,False,48,245826,0.51,0.155,0.863,2.93e-06,0.375,-4.56,0.402,85.599,0.628

@@ -1,0 +1,76 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+7vrUr4ik4xw8ukdGdQ1v9Q,Dream Another,['Makaya McCraven'],5FnpXrrMdJVZCK54oHWqUa,False,36,192937,0.534,0.15,0.552,0.923,0.0842,-10.467,0.0333,150.711,0.966
+1LBemY1Vmr78TYltVOiX2N,Don't Break,"['Immanuel Wilkins', 'Farafina Kan Percussion Ensemble']",5szMuuBbDzULkagWIfI5LG,False,30,214432,0.457,0.904,0.645,0.898,0.116,-11.235,0.0946,177.678,0.675
+1HJXdfuWc6IlKBMLtITaHD,SMiLE,['DOMi & JD BECK'],4UpA1KitN1RgIZVyWDbZ0U,False,46,191361,0.774,0.753,0.512,0.939,0.105,-11.061,0.0453,96.028,0.709
+32EOILWXWu3WGo56PmM9UG,Mama,"['Nduduzo Makhathini', 'Omagugu']",6EvFcDtvFuVugEtZNslkft,False,30,421207,0.362,0.839,0.374,0.0728,0.112,-13.627,0.0421,91.589,0.155
+4FRz9yGVMIdeFHwdToHE0t,Gift Of The Moon,['Julius Rodriguez'],50qPbhYR2iMZzD3iz0eBMF,False,29,178924,0.479,0.145,0.565,0.438,0.425,-11.798,0.0355,114.264,0.236
+7mf1jqnFX2jgZg9bgK8V6r,CODE,['The Comet Is Coming'],0Z5FMozvx15nUSUA6a9kkU,False,41,255264,0.637,0.000177,0.928,0.783,0.072,-6.527,0.0732,127.469,0.589
+4S9x6X8aX0mV4IWvckW5QC,The Avenues,"['Adrian Younge', 'Ali Shaheed Muhammad', 'Katalyst']",4aMeIY7MkJoZg7O91cmDDd,False,24,257239,0.246,0.0126,0.767,0.921,0.269,-7.142,0.0351,170.826,0.675
+5MeG3sTzj1EBYSrlU5qp0p,Something's Going On,['Kokoroko'],3u9rbdcmA6CxjxOAkjaeFr,False,27,312093,0.349,0.0266,0.676,0.523,0.131,-10.861,0.0623,86.374,0.505
+2t6CjjlQr9rBrXUiZgDR5M,Reload,"['Marialy Pacheco', 'Sebastian Nickoll']",6C5pk86oEQTxDahuLStCt1,False,25,446960,0.587,0.695,0.531,0.772,0.0563,-12.414,0.0523,114.975,0.723
+1mO6jUnWeWtVYRXGoGFI70,Trinity,['Snarky Puppy'],7ENzCHnmJUr20nUjoZ0zZ1,False,38,474309,0.539,0.349,0.648,0.779,0.114,-8.474,0.0535,159.91,0.402
+0U9hekAvk594eG77ipTLDR,Warp,"['Blue Lab Beats', 'Jackson Mathod', 'Kaidi Akinnibi']",4YLUMAgNyttwx4hUHgtBtR,False,32,265022,0.461,0.0328,0.838,0.815,0.0915,-6.582,0.0609,154.712,0.358
+5n2ungarkfmrpDS5VhKja6,Unrest II,['Brandee Younger'],1DT11FntvMnaU47ZZWlTpB,False,27,248562,0.276,0.305,0.525,0.85,0.108,-14.073,0.0449,168.833,0.385
+39VnaoDW2jT2QuWQ3gk9j2,Lawd Why,['Butcher Brown'],2jQ6wRQ7yP1UrctodeuYQP,True,33,205720,0.533,0.0957,0.786,1.66e-05,0.0625,-7.295,0.179,81.946,0.466
+0byQBl2ojtZxpNCMCVdCCj,Dribble,['Anomalie'],2ev6Cd0yJVCcpf2zezEQ8Z,False,40,210572,0.575,0.63,0.601,0.573,0.126,-9.812,0.0612,81.97,0.525
+7G035a84qdhNfjm2pV29Zx,That Roy,"['Gerald Clayton', 'Justin Brown']",5mYw31MXiGnqTMliAcl7m8,False,25,136320,0.553,0.76,0.261,0.925,0.084,-12.621,0.0378,90.204,0.197
+36tF6eoNw42PF9KsHV25wg,Black Alchemy/Hall of Mirrors,"['Marquis Hill', 'maassai', 'Samora Pinderhughes']",5QI54xb4Ovm8DwDkmmHbez,False,34,360874,0.477,0.483,0.731,0.0922,0.12,-10.907,0.0948,133.99,0.713
+5li75DMlmHshiqcMStzxhF,Disco Ears,"['Joshua Redman', 'Brad Mehldau', 'Brian Blade', 'Christian McBride']",3uaHfXYx9Fh4HjqMbrWn5S,False,32,381160,0.524,0.757,0.552,0.827,0.085,-11.635,0.0322,119.448,0.486
+6dHZsOuOsmLSTs1PAyl0aj,Bajrangbali,"['Pachakuti', 'young.vishnu']",2pQzPOCdgQgaUpWG3WEcYr,False,31,212933,0.734,0.238,0.559,0.907,0.123,-9.442,0.0309,131.964,0.807
+5Uq45pwM3VHj9PeWDyjWLR,SOMETHIN' (feat. Ego Ella May),"['Theo Croker', 'Ego Ella May']",7iUF39q93Xixo33E6IvNYm,False,38,190026,0.524,0.665,0.485,0.00633,0.233,-9.549,0.0426,90.129,0.316
+0jpQ9EDSXQUiLyek5i6WYM,Beep Durple,['Cory Weeds'],0YB9WHBn7xTEQsvcFZRUdy,False,25,380631,0.603,0.795,0.469,0.842,0.101,-10.352,0.0369,85.294,0.878
+0P0vNFONGtnVFxEEk3k0K2,Wings,['Theon Cross'],0IFabaHypEH0hMgkx0Gw56,False,26,330874,0.519,0.0112,0.891,0.756,0.0804,-6.157,0.0578,91.433,0.838
+4n4uG6LLOH4xab3V7fbrO7,Captured Time,['Portico Quartet'],7sYipTRgDXS2JVOPEhRutx,False,26,264360,0.413,0.11,0.678,0.95,0.122,-9.512,0.0311,79.99,0.0811
+1AZO8tYXvWlrkoaytSJNXu,Falling,['Melissa Aldana'],56qrzp61GEif1i0UjqkHrz,False,24,381925,0.439,0.851,0.291,0.378,0.103,-13.473,0.0336,112.727,0.278
+16cB05rfZF8GYqwtSPkXuy,El Neo Songo,['Kansado'],40is4UfaphbysAcimFzUDW,False,29,187826,0.701,0.605,0.575,0.569,0.281,-10.158,0.0544,92.017,0.344
+1Fs2kqyfm1wnFE83eIAqF7,The Chant,"['Greg Spero', 'Joel Ross', 'Irvin Pierce', 'Darryl Jones', 'Marquis Hill', 'Jeff Parker']",0zimAUeLZD9gEVSEgc9RRd,False,35,266453,0.647,0.248,0.504,0.856,0.0874,-11.259,0.195,84.149,0.293
+1Iqeeci1aIDfZpelLxMSni,Remembering,['Joey Alexander'],0FcNSKwWZJb98ry9M2qEII,False,27,344295,0.401,0.792,0.349,0.882,0.129,-14.746,0.0359,128.818,0.297
+31KtddFzLJobEIyxBHT3gS,The Garden Path,['Kamasi Washington'],6HQYnRM4OzToCYPpVBInuU,False,27,400170,0.428,0.0313,0.903,0.534,0.179,-8.874,0.0869,150.167,0.4
+2ORBalkbIaHkQyAPIyd4Qq,Jike'lemaweni,"['Somi', 'Angelique Kidjo']",6UYqtBD79GpmqjttbzV6iA,False,22,268212,0.755,0.591,0.63,0.0,0.268,-8.189,0.0842,112.942,0.792
+7KVWQzXYf9m2xo2R7A1e38,Ereshkigal of the Underworld,['Connie Han'],05u1DXPSD35OnIBPXFogTG,False,34,181320,0.374,0.742,0.479,0.933,0.164,-15.025,0.0312,108.786,0.583
+5d6C0v7ir8lVRCymD9X2Ss,Brouhaha,['Christian McBride'],5ACxPOI9gR3l0cyy2dvkHv,False,17,296666,0.533,0.459,0.465,0.479,0.147,-10.221,0.0687,117.416,0.713
+5EcuMsEpZ3K9HLsdS03oq4,LDN,['Alexander Flood'],07xBnzShNUrWwaVf9S7DUz,False,29,448974,0.641,0.00378,0.859,0.804,0.103,-7.669,0.0456,114.985,0.157
+1MMywhwJKpbVZeDlBAzOAH,A Night In Tunisia,['Grace Kelly'],7bcjgJLky9kVQ4GcrQTibn,False,38,254505,0.806,0.315,0.55,0.902,0.1,-11.646,0.121,120.0,0.603
+6zX73swV0JYKmOUSBpqLSt,Walk Cycle,['The JuJu Exchange'],2z18t1v0xbF5ehh25MMfPV,False,38,192013,0.525,0.224,0.61,0.901,0.102,-9.312,0.0441,85.028,0.538
+2EJF3EdnuLtLNVNafgP08h,Reste un oiseau,['Anne Paceo'],73WqPBltlyOTxKoOVWWBdL,False,34,195777,0.368,0.971,0.297,0.421,0.112,-12.584,0.0342,172.846,0.304
+0mhDVzQgnwtrY1JnDqz7KQ,Why Not?,"['Kiefer', 'Luke Titus', 'Pera Krstajic']",5lDtfHPqWN6MG9tFywnW8J,False,27,330088,0.613,0.0379,0.697,0.728,0.829,-9.788,0.0443,102.435,0.615
+0XuzuAyCGR3fSO6q7f9gEf,Ondes of Chakras,"['Dhafer Youssef', 'Rakesh Chaurasia', 'Nguyên Lê', 'Marcus Miller', 'Adriano Dos Santos Tenorio', 'Vinnie Colaiuta']",5UefiThiZ352HWMOgZvOhx,False,28,377231,0.496,0.799,0.292,0.939,0.0714,-18.884,0.0303,116.393,0.489
+5FHITxNz6XuYTfSnyqMVGR,Ascent,['GoGo Penguin'],19f2JXwlRU26376TCKmp6L,False,40,280400,0.439,0.282,0.477,0.796,0.106,-12.852,0.0354,118.507,0.487
+6IaE8Jw1Wm5GyXjDZT3gOk,Faith,['Lucas Figueiredo Santana'],4wXu0yhZX9vB4dZxzu3G7N,False,18,513612,0.452,0.867,0.423,0.814,0.33,-13.099,0.043,118.735,0.495
+5N9bcA6tfDSDCcymXQlqqn,"Eh Hee 2.0 (feat. Dave Matthews, Pat Metheny)","['Antonio Sánchez', 'Dave Matthews', 'Pat Metheny']",19KpCg8O15A2eZ416EyFdw,False,24,268466,0.448,0.117,0.572,8.83e-06,0.153,-8.245,0.0833,82.583,0.521
+7y4FhiHBPKB6EqFQV66CDR,Victory Dance,['Ezra Collective'],5BRAUN0yN8557PLRZIr02W,False,29,295893,0.663,0.00145,0.754,0.859,0.0544,-10.077,0.0584,138.032,0.499
+5tCCNYQmWxZtrA51eN7ZOF,PRAYER,['Joel Ross'],5OSxNS2UGq8dW38T57o78l,False,32,465306,0.339,0.967,0.157,0.892,0.0875,-18.282,0.0349,109.084,0.124
+0Bh4RCRlTcWUDNCu3CPgW6,Joy Road,['Jazzanova'],0nTErwSOllrcUWt3knOG2T,False,27,233066,0.685,0.704,0.294,0.948,0.103,-15.494,0.0298,132.003,0.614
+7atmsefAJDBe9Sq3fzWGiz,MB (for Ma’Khia Bryant),['Braxton Cook'],60k4atxgEIMFz4DWHp0le1,False,21,333384,0.527,0.099,0.642,0.732,0.142,-7.775,0.0434,106.317,0.244
+4JvovpjvPhVNOCwSzLxueY,Auditorium,['Julian Lage'],2TSuAchdgVzsAa9wDK1IeT,False,36,268626,0.502,0.928,0.395,0.893,0.107,-12.164,0.0381,147.896,0.393
+5O57Dy2CswuB7MTDu0lS2H,Times,"['DoomCannon', 'Lex Amor']",1EKCFythC6ga1G4x4jYDwy,False,19,372213,0.529,0.165,0.516,0.29,0.153,-10.398,0.0382,90.106,0.35
+6wWQOQk8NmLaOJH7xuKnY4,Nature Boy,['David Hazeltine'],5mQGacj97PLCoX9YOEGf0Q,False,34,372376,0.439,0.854,0.44,0.89,0.0935,-14.738,0.032,116.373,0.39
+5LvYyX92OBI2bNAdfT98X9,Mystics - Live,"['Yussef Dayes', 'Venna']",2rspptKP0lPBdlJJAJHqht,False,31,227435,0.624,0.545,0.195,0.888,0.0913,-18.619,0.0575,88.726,0.0525
+4k98hsTy9dAhsckyUAQa0u,Someday We'll Fly,['Jazztronik'],3TMLgJUsDIxI4CShGh8vYM,False,20,504306,0.396,0.394,0.624,0.893,0.0803,-13.338,0.0456,109.616,0.364
+0xaTg3VQlkaeWmmBuzSKR4,Chandler,"['Ebi Soda', 'Yazz Ahmed']",14oHFzpCSWX1koQIlZbjFU,False,21,221129,0.524,0.0516,0.679,0.826,0.633,-7.043,0.0473,155.986,0.377
+3X0HDn9m6yXzAyjV0VZugH,Big Foot (feat. Joshua Redman),"['Tigran Hamasyan', 'Joshua Redman']",0D3h8NZqNp7BN97JwtV6eW,False,24,450153,0.445,0.386,0.586,0.547,0.0731,-10.163,0.0606,145.392,0.598
+0CcZcX4yIRKlbbJ98u9Hcp,The Storm Will Pass,['Adam Blackstone'],01qe6O86TULkQwNofn1zgs,False,24,339674,0.45,0.176,0.565,0.904,0.0416,-9.5,0.0422,81.981,0.408
+2H2t8HCFkE2TIN8xik7wGE,Circadian,['pantology'],6BmJQyuJW3ghQ8qLROaOt0,False,27,161799,0.697,0.0122,0.8,0.937,0.0834,-9.757,0.0403,91.989,0.89
+1PHkwus4CNhHE17xM8k5Fx,All Roads Lead To Los Angeles,"['High Pulp', 'Jaleel Shaw']",7mcmohD0Iz3xqKHaMXt5Cf,False,26,282066,0.389,0.0266,0.893,0.861,0.329,-7.272,0.0571,92.063,0.369
+44egUa8FkT17spwSFvQis6,Midnight Crisp,['Takuya Kuroda'],4DbVGBurfbrdLW2ZwfwdmP,False,25,326552,0.45,0.024,0.839,0.874,0.113,-8.435,0.051,87.736,0.596
+2JzM0hryP9GtTaoNujfZ7O,Flume Ride Blues,"['High John', 'Phillip Dornbusch', 'Sandro Sáez']",6pxhj7jWxb2vzhFNyUpV80,False,35,228620,0.612,0.138,0.308,0.795,0.121,-19.131,0.0614,143.919,0.546
+7sOEgNweXVf2N4ae7hzKMU,Funkdombe - edit,"['Hector Bingert', 'Ruben Rada']",2mKWIAGVpwrU0nOa3QF9ds,False,22,230374,0.514,0.533,0.703,0.803,0.0561,-13.118,0.0622,110.611,0.896
+0kUdHd3S9GZsmFxNrBqp2w,I LOVE BLACK WOMEN,"['Nathan-Paul', 'E-SWERVE', 'Unc D']",5nTcwumRsv459Yw9kUP1JB,False,25,155106,0.581,0.00222,0.775,0.856,0.121,-6.05,0.049,93.96,0.827
+4uS12ibCJvo83kxACQgC3e,Below,"['Avishai Cohen', 'Elchin Shirinov', 'Roni Kaspi']",5wu05jGsVMAFHYMYHqCB9l,False,36,270778,0.41,0.889,0.266,0.853,0.11,-20.835,0.036,144.061,0.389
+2NE3hVkSulF5bTKa1uhJjV,Blue For You,"['Charlie Peacock', 'Eric Harland', 'John Patitucci', 'Chris Potter', 'Marcus Printup']",4Dld5cUTz6eVReIWx9Dtyl,False,17,450695,0.324,0.285,0.677,0.0131,0.151,-10.752,0.0432,157.349,0.4
+0UwQljCILorlIvAh4KqOzd,Cryogen,"['daniel hayn', 'Israel Strom', 'Noah Denton', 'Jonathan Berroa', 'Anatole Muster', 'Noah Wise', 'Jean-loup Siaut']",2E54rBy4UeaSYijZiWlNpO,False,24,202632,0.425,0.264,0.936,0.826,0.106,-9.479,0.047,117.813,0.326
+6XSEJN0k4yL6z0bGJ1s4Fx,Network of 3,['H ZETTRIO'],5Ga4ie7tlXW9Fc6ObLbSCY,False,19,255000,0.446,0.00334,0.716,0.651,0.11,-8.891,0.0336,157.041,0.487
+79gj6Q29XQvrAzW5p3g4Bl,Hornets,"['Walter Smith III', 'Matthew Stevens', 'Kris Davis', 'Dave Holland', 'Terri Lyne Carrington']",26XwWqwNq8FMgZEKqqdU9b,False,21,226569,0.528,0.696,0.425,0.706,0.329,-7.959,0.0337,164.714,0.301
+6evizKGLv223qG5hpReBWy,In Contemplation of Clair’s Scent - Edit,['Terence Etc.'],3PRli833wyTmzJrKQGNOKj,False,30,170108,0.437,0.0399,0.623,0.00508,0.107,-10.725,0.0592,112.082,0.513
+6MyPzGgsio8bnZZsb5ueyI,yield,['cktrl'],2eO4klJg324zroGqnBkqk3,False,26,319210,0.243,0.97,0.106,0.138,0.109,-14.581,0.0529,166.386,0.0509
+1F39hjm8I9oxamHT3RmQJ2,The Resurrection,"['Luke Smith', 'Jackson Mathod']",5eaYeMThA7paMUOBudZJ6H,False,37,243227,0.728,0.26,0.469,0.0435,0.0895,-11.324,0.0855,88.017,0.651
+1w8R8ktBN372wpT5UOCZzT,Reflections,"['Katalyst', 'Adrian Younge', 'Ali Shaheed Muhammad']",4B0nwBQwFMfwa3esy6E3qM,False,21,422498,0.372,0.0584,0.746,0.0462,0.0997,-7.493,0.0526,94.131,0.533
+1R3OT4zUhA9p8erPorBcPD,Dust Ball Fantasy (feat. Lionel Loueke),"['Marcus Strickland Twi-Life', 'Lionel Loueke']",3r1zgybXPtRemw0HPrDU7l,False,20,327774,0.42,0.65,0.635,0.34,0.395,-9.558,0.12,95.952,0.636
+4rIDC72fAd26dB4U9pCAGa,Sun of June,['Rikard From'],1zIcfg9uUp5YjS9Bb1sEgc,False,40,225600,0.828,0.68,0.251,0.893,0.0944,-16.778,0.0465,99.981,0.79
+55sg7XJ6nyfOv1VM1OHdHD,What Happens Next?,['Little North'],0LPOA9noh1qUUtZ2N2YX0J,False,19,277000,0.324,0.907,0.284,0.876,0.12,-19.674,0.0327,102.037,0.17
+19JudMh7z6HFLiXKAUK5K7,Arrows,"['Nine Sparks Riots', 'Noé Berne', 'Karl Olandersson', 'Andreas Gidlund', 'Tao Ehrlich']",4y6ORtg4fPmsXNftMLw12X,False,24,234737,0.577,0.602,0.388,0.819,0.103,-11.812,0.145,139.249,0.652
+4twURyv1xrqjT9RILugLb3,Ersa,['Daylight Robbery!'],4iSyPXTjEjLTgM08lsnC0O,False,21,227226,0.459,0.218,0.593,0.918,0.113,-11.922,0.0718,112.898,0.187
+4VwYeANX0aXiCqGGkI4SAx,Black Love,"['Jean Carn', 'Adrian Younge', 'Ali Shaheed Muhammad']",5swBKHtsRDaCBmdpYRYOg1,False,13,236213,0.368,0.369,0.743,0.00185,0.226,-6.307,0.0462,99.363,0.566
+4l6LEkiXfyZCNVyb9rS6Rg,Resilience,['Yellowjackets'],1zHPRenzLeI2vhT7nlR6Mq,False,26,302160,0.691,0.419,0.462,0.781,0.11,-10.54,0.0342,106.585,0.421
+4LvTgaYf1iMvkBPh9YMK54,Long Way From Home (feat. Eric Harland),"['Gilad Hekselman', 'Eric Harland']",5oNJNBpUU3zRyC8xHwCnQL,False,24,317346,0.395,0.131,0.6,0.291,0.157,-9.393,0.0742,97.058,0.377
+2b7mhgBdpvDCLYGK8nRfMX,Words Left Unspoken,['Jasmine Myra'],3OOAxdMJCLi7iAurDghYyK,False,35,400800,0.534,0.95,0.231,0.895,0.0988,-15.927,0.0303,114.991,0.341

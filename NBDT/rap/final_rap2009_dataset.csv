@@ -1,0 +1,51 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+5iSEsR6NKjlC9SrIJkyL3k,Pursuit Of Happiness (Nightmare),"['Kid Cudi', 'MGMT', 'Ratatat']",0fA0VVWsXO9YnASrzqfmYu,True,72,295293,0.63,0.484,0.605,9.29e-05,0.298,-8.951,0.0414,115.277,0.266
+5UsLjwBaTHBX4ektWIr4XX,Forever,"['Drake', 'Kanye West', 'Lil Wayne', 'Eminem']",3TVXtAsR1Inumwj472S9r4,True,72,357706,0.457,0.249,0.906,0.0,0.182,-2.278,0.342,104.02,0.54
+7LR85XLWw2yXqKBSI5brbG,Run This Town,"['JAY-Z', 'Rihanna', 'Kanye West']",3nFkdlSjzX9mRTtwJOzDYB,True,80,267520,0.632,0.281,0.924,0.0,0.263,-1.802,0.29,86.844,0.441
+1HR2CTi0ytRJIcik1QKdOa,Beautiful,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,True,70,392826,0.727,0.251,0.696,0.0,0.0726,-4.472,0.0706,132.077,0.467
+6Rb0ptOEjBjPPQUlQtQGbL,Hotel Room Service,['Pitbull'],0TnOYISbd1XYRBk9myaseg,False,71,237640,0.851,0.00705,0.629,0.000372,0.0746,-8.385,0.175,125.984,0.789
+3iL2l5gUqyPS6vDwJFgJTR,BedRock,"['Young Money', 'Lloyd']",5OrB6Jhhrl9y2PK0pSV4VP,True,68,288133,0.733,0.102,0.664,0.0,0.191,-6.163,0.295,148.005,0.557
+3QLjDkgLh9AOEHlhQtDuhs,Best I Ever Had,['Drake'],3TVXtAsR1Inumwj472S9r4,True,75,257690,0.395,0.19,0.922,0.0,0.134,-2.176,0.375,162.361,0.558
+1WtTLtofvcjQM3sXSMkDdX,How Low,['Ludacris'],3ipn9JLAPI5GUEo4y4jcoi,True,62,201586,0.785,0.00248,0.498,1.23e-06,0.224,-6.977,0.0533,143.96,0.418
+1AJx5jJQy9pKKxcnHm85RY,Dysfunctional,['Tech N9ne Collabos'],4UOlRVifrFdQHW9qu5ep8t,True,61,240173,0.782,0.281,0.835,0.0,0.459,-4.278,0.283,80.014,0.527
+5wfllwdjglyQislkskYLBv,Day 'N' Nite (nightmare),['Kid Cudi'],0fA0VVWsXO9YnASrzqfmYu,False,70,221240,0.881,0.48,0.441,9.08e-06,0.119,-6.278,0.0646,138.014,0.804
+3cSuhzV7wKX5diQ8hos78P,Steady Mobbin,"['Young Money', 'Gucci Mane']",5OrB6Jhhrl9y2PK0pSV4VP,True,61,310733,0.488,0.0219,0.691,0.0,0.501,-8.09,0.279,156.141,0.697
+4dK00wCxlqWEeN8BoM1BHT,Crack A Bottle,"['Eminem', 'Dr. Dre', '50 Cent']",7dGJo4pcD2V6oG8kP0tJRR,True,70,297520,0.516,0.0864,0.874,0.0,0.173,-2.571,0.186,169.561,0.391
+35srNkJVToAzYiZzron1FY,Young Forever,"['JAY-Z', 'Mr Hudson']",3nFkdlSjzX9mRTtwJOzDYB,True,64,253906,0.637,0.417,0.69,0.0,0.211,-3.214,0.0693,140.329,0.103
+2Vy16OMt19FH30uQNTFdLk,THAT'S THAT,['MF DOOM'],2pAWfrd7WFF3XhVt9GooDL,True,61,135066,0.499,0.235,0.728,0.0,0.686,-4.922,0.385,96.089,0.853
+5aooThgj87ID0vgiyvcjPM,I'm Goin In,"['Drake', 'Lil Wayne', 'Jeezy']",3TVXtAsR1Inumwj472S9r4,True,63,225306,0.662,0.0389,0.763,0.0,0.103,-8.455,0.377,170.031,0.566
+7qje9qxLncMESiPeI27SAn,Say Something (Featuring Drake),"['Timbaland', 'Drake']",5Y5TRrQiqgUO4S36tzjIRZ,True,60,240920,0.555,0.0845,0.713,0.0,0.712,-4.549,0.0911,79.934,0.725
+1x075F39Q0zOhjPzPKgG8E,Baby By Me,"['50 Cent', 'Ne-Yo']",3q7HBObVc0L8jNeTe5Gofh,True,59,213360,0.611,0.0045,0.827,0.0132,0.0283,-4.665,0.0876,190.058,0.355
+7xVwhsuZTUWhIyFeDH6rYr,Next to You,['Mike Jones'],07VmOvmuBp9G0gb8BTrpn0,True,59,221933,0.65,0.324,0.753,0.0,0.307,-4.745,0.0632,82.478,0.616
+0rFpcfF0YfvFUYsl99Bw9d,Soundtrack 2 My Life,['Kid Cudi'],0fA0VVWsXO9YnASrzqfmYu,True,65,235626,0.464,0.465,0.754,1.57e-05,0.37,-6.653,0.128,86.501,0.444
+57QFOU3f7O0gDLadxv5z8w,Ice Cream Paint Job,['Dorrough Music'],5MAp6rMiUJjRLXMWtArXRS,True,59,237320,0.851,0.000595,0.598,0.0,0.343,-8.356,0.439,180.046,0.654
+1z667LebVh3DtYNrVJEao0,All the Above (feat. T-Pain),"['Maino', 'T-Pain']",20apXQGKM00jJTvYfyKwlb,True,58,319940,0.374,0.0762,0.888,0.0,0.202,-3.197,0.12,148.828,0.365
+4UMTp91LHhvW33ol9ZQH0Q,We Made You,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,False,64,269613,0.924,0.107,0.853,1.45e-06,0.129,-1.203,0.0792,114.003,0.67
+0JaVdpmiex2EP7bBzyKVTa,November 18th,['Drake'],3TVXtAsR1Inumwj472S9r4,True,58,188189,0.749,0.579,0.476,0.0,0.1,-11.147,0.507,71.937,0.534
+1akgiRM3mN2nxu2AX6ACCW,I Love College,['Asher Roth'],1wgY8huggK60P5nvYrwcYT,True,58,241933,0.713,0.0897,0.826,0.0,0.421,-4.075,0.243,86.444,0.664
+6rUcS9i07F6okIe8wujs5J,Lemonade,['Gucci Mane'],13y7CgLHjMVRMDqxdx0Xdo,True,57,246013,0.741,0.643,0.658,3.43e-06,0.307,-7.758,0.0853,142.057,0.746
+4ljDnzzqwnRIynr1g55um4,On To The Next One,"['JAY-Z', 'Swizz Beatz']",3nFkdlSjzX9mRTtwJOzDYB,True,57,256133,0.546,0.215,0.908,9.47e-06,0.107,-1.655,0.417,116.885,0.59
+03MWa1FMygR3RrQoQytsjS,Cudi Zone,['Kid Cudi'],0fA0VVWsXO9YnASrzqfmYu,True,61,259040,0.706,0.546,0.691,1.3e-06,0.366,-5.86,0.0338,134.751,0.597
+6c0GmyBsE7mQtrVvxJaWc3,Throw It In The Bag,"['Fabolous', 'The-Dream']",0YWxKQj2Go9CGHCp77UOyy,True,56,231573,0.789,0.174,0.55,0.0,0.0614,-7.423,0.0473,172.049,0.696
+0q7LGcVSpsIoSbjChtZ8lI,Uptown (feat. Bun B & Lil Wayne),"['Drake', 'Bun B', 'Lil Wayne']",3TVXtAsR1Inumwj472S9r4,True,56,382262,0.416,0.00391,0.824,0.0,0.104,-3.075,0.343,85.433,0.417
+3IQSYqnKsCTMLWn2xE3HFT,I'm On A Boat,"['The Lonely Island', 'T-Pain']",1f5GqyOPo0CkotzzRwviBu,True,56,156266,0.623,0.0465,0.871,0.0,0.111,-2.403,0.239,150.079,0.653
+2ruw2Kq8lgyqwemZik9bUg,My Mom,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,True,62,319866,0.812,0.295,0.88,0.0,0.106,-1.521,0.259,90.098,0.778
+3ipzZgH1766XXRamVwk1Iw,I Juswanna Chill,['Large Professor'],01nVIuD8YZsnFH6x6Cc9rX,True,56,208866,0.754,0.184,0.801,0.0,0.132,-5.992,0.35,90.843,0.391
+00mojm5rDbk8dhvwHw4IIz,Thug,['Slim Thug'],0st5vgzw9XkH5ALJiUM1lE,True,56,230706,0.784,0.00874,0.712,0.00169,0.121,-3.674,0.0923,156.075,0.313
+1EjzkhMFJgl08Qkn2uDV1d,EveryGirl In The World,['Young Money'],5OrB6Jhhrl9y2PK0pSV4VP,True,54,313400,0.605,0.00291,0.744,0.0,0.319,-5.5,0.252,76.171,0.743
+7dZAPeA3Of5j5Vaef0DQ6M,Make Her Say,"['Kid Cudi', 'Kanye West', 'Common']",0fA0VVWsXO9YnASrzqfmYu,True,59,216413,0.93,0.245,0.712,1.48e-05,0.116,-5.156,0.0666,99.054,0.456
+4gaz3uvhKgO078XcdzyPsl,Money To Blow - Street Version,"['Birdman', 'Lil Wayne', 'Drake']",35sCXuy5gN6Or69rZ9vqBs,True,54,258586,0.709,0.00934,0.579,0.0,0.353,-8.686,0.063,133.028,0.697
+4Mb5DVgLbFjlSwcuMdOw7B,Exhibit C,['Jay Electronica'],0TkqXdyWLsssJH7okthMPQ,True,53,331440,0.504,0.0276,0.811,0.0,0.388,-11.966,0.191,82.01,0.382
+11hQvcLydGTyXS3Wo6AkmW,Wasted (feat. Plies),"['Gucci Mane', 'Plies']",13y7CgLHjMVRMDqxdx0Xdo,True,51,249840,0.702,0.0827,0.727,0.0,0.0831,-3.443,0.155,155.093,0.549
+4faiJXyBflUVVOOE9fxbeg,Tie Me Down (feat. Ray J),"['New Boyz', 'Ray J']",1ZKqrja0WvbSssYNFO3lzs,True,51,178807,0.42,0.0104,0.787,0.0,0.198,-4.467,0.294,97.967,0.38
+5PVv4YALJruehQKyAlwjfE,Must Be The Ganja,['Eminem'],7dGJo4pcD2V6oG8kP0tJRR,True,53,242906,0.728,0.322,0.801,0.0,0.244,0.161,0.297,82.657,0.794
+6VD2YPeb1P3BCP5q0lZHrs,My Time,"['Fabolous', 'Jeremih']",0YWxKQj2Go9CGHCp77UOyy,True,50,240053,0.595,0.192,0.819,0.0,0.0588,-6.186,0.143,179.9,0.498
+5kMsjfhYMZ1L9Btuu0AIRx,D.O.A. (Death Of Auto-Tune),['JAY-Z'],3nFkdlSjzX9mRTtwJOzDYB,True,50,256386,0.569,0.0342,0.869,0.0,0.0718,-5.432,0.217,86.62,0.492
+4UXpJDvdsfneLvT09oJocg,Roger That,['Young Money'],5OrB6Jhhrl9y2PK0pSV4VP,True,50,209826,0.482,0.00827,0.627,0.0,0.701,-7.561,0.116,157.58,0.293
+4IgP2sTH5RYOpx9gbHQyMT,Mafia Music,['Rick Ross'],1sBkRIssrMs1AbVkOJbc7a,True,48,256399,0.627,0.0164,0.822,0.0,0.121,-5.909,0.249,80.02,0.538
+30QbrkRLEimw7HWXb7ntrU,You're a Jerk,['New Boyz'],1ZKqrja0WvbSssYNFO3lzs,True,49,189053,0.931,0.153,0.456,0.0,0.0914,-6.206,0.348,99.048,0.522
+63XXvHR6FfiRDk5lKNNCMI,Halle Berry (She's Fine) (feat. Superstarr),"['Hurricane Chris', 'Superstarr']",1fQ46lgoUCz8FVXdTVNk0a,True,48,281480,0.709,0.0119,0.744,0.0,0.0609,-5.905,0.134,145.112,0.508
+18NezaQ1GIzJkvZx9hG0bX,This Plane,['Wiz Khalifa'],137W8MRPWKqSmrBGDBFSop,True,47,197124,0.656,0.103,0.849,0.0,0.428,-5.62,0.136,170.051,0.715
+1E8wif6bVXurUgxV8Gfwrw,Gangsta Luv,"['Snoop Dogg', 'The-Dream']",7hJcb9fa4alzcOq3EaNPoG,False,47,256546,0.59,0.0277,0.735,0.0,0.0818,-4.924,0.297,102.076,0.398
+2zcjGIvtu2EKBNquStm1pp,You Can Get It All (feat. Johntá Austin) - Album Crossfade Version,"['Bow Wow', 'Johnta Austin']",7352aRY2mqSxBZwzUb6LmA,False,47,216840,0.783,0.31,0.765,0.0,0.0777,-5.227,0.145,89.006,0.692
+4HYc74wPEfUAhlQFm4fZHa,Chillin,"['Wale', 'Lady Gaga']",67nwj3Y5sZQLl72VNUHEYE,True,46,204533,0.761,0.0146,0.915,0.0,0.332,-3.019,0.195,99.024,0.402

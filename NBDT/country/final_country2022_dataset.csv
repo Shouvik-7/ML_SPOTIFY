@@ -1,0 +1,76 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+48UKTR66uUOT9LaUvooTNx,The Kind of Love We Make,['Luke Combs'],718COspgdWOnwOFpJHRZHS,False,78,224426,0.608,0.0226,0.745,6.47e-06,0.0942,-4.13,0.0277,102.025,0.464
+4686eQ81DEswHa90bcdlC9,Rock and A Hard Place,['Bailey Zimmerman'],3win9vGIxFfBRag9S63wwf,False,82,207540,0.582,0.577,0.568,0.0,0.105,-7.3,0.0275,121.991,0.394
+5C9jQ8ikTOieveuORd8wlf,Like I Love Country Music,['Kane Brown'],3oSJ7TBVCWMDMiYjXNiCKE,False,61,234800,0.533,0.00075,0.802,0.000225,0.315,-6.73,0.0447,124.986,0.69
+45XpHzRXZ5sS3ezoMbopc9,11 Beers (feat. Jake Owen),"['The Reklaws', 'Jake Owen']",37lYaYPWOHjKXBD33S6LNv,False,45,204333,0.593,0.18,0.941,0.0,0.329,-3.286,0.0406,119.99,0.82
+0k11c8vwyeNSGQex6UMa1v,Last Night Lonely,['Jon Pardi'],4MoAOfV4ROWofLG3a3hhBN,False,67,182161,0.652,0.00544,0.813,0.0,0.101,-2.842,0.0268,102.987,0.851
+5cc1GqkadgfMlLszRXqdhM,Waking Up Dreaming,['Shania Twain'],5e4Dhzv426EvQe3aDb64jL,False,58,198802,0.567,0.0264,0.737,0.0,0.0894,-3.642,0.118,91.827,0.543
+7zwi0kPSFtdNUNIXZlKfNF,Shakin' In Them Boots,['Jade Eagleson'],2nTzAHwCk0swkDdIPj2FIP,False,54,169095,0.587,0.00946,0.934,0.0,0.727,-3.296,0.0455,117.014,0.841
+5uU1uuyaUIBOiiUSQG7Wl3,You Proof,['Morgan Wallen'],4oUHIQIBe0LHzYfvXNW4QM,False,81,157477,0.731,0.252,0.85,0.0,0.605,-4.913,0.0336,119.706,0.644
+200x8ONbPfFzByUr3fVz46,She Had Me At Heads Carolina,['Cole Swindell'],1mfDfLsMxYcOOZkzBxvSVW,False,76,206106,0.607,0.124,0.912,0.0,0.332,-3.449,0.0611,134.944,0.722
+3WMj8moIAXJhHsyLaqIIHI,Something in the Orange,['Zach Bryan'],40ZNYROS4zLfyyBSs2PGe2,False,86,228013,0.369,0.555,0.192,8.35e-06,0.0954,-12.151,0.04,175.212,0.148
+4wBjKhJx6JnGoNJfJs24pd,Thinking 'Bout You (feat. MacKenzie Porter),"['Dustin Lynch', 'MacKenzie Porter']",1dID9zgn0OV0Y8ud7Mh2tS,False,71,170560,0.403,0.137,0.711,0.0,0.109,-4.189,0.0569,203.803,0.801
+4Do7NhvafmOQENTNAus874,Where'd You Learn How To Do That,['Dean Brody'],0ryF1Gy87xVCOF0Jb666ak,False,54,174322,0.531,0.015,0.807,0.0,0.155,-3.61,0.0316,157.56,0.532
+3fl4zil6HJ0N1FL3YIRwdC,Tennessee Orange,['Megan Moroney'],5Ppie0uPnbnvGBYRwYmlt0,False,76,223119,0.38,0.126,0.488,7.23e-06,0.115,-6.637,0.029,156.031,0.268
+7trjNYF5ek7zX4GKSHQZbP,wait in the truck (feat. Lainey Wilson),"['HARDY', 'Lainey Wilson']",5QNm7E7RU2m64l6Gliu8Oy,False,74,277659,0.534,0.277,0.466,0.0,0.0979,-6.98,0.0272,140.0,0.23
+2JspXl1hD5EUfyBln7r0F6,Dear Alcohol (feat. Elle King),"['Dax', 'Elle King']",5icKdCmMhNMYoAzVBAWt39,False,62,188307,0.815,0.207,0.514,0.0,0.118,-9.247,0.0638,130.021,0.372
+6aIrXGmaFqPafbYgxbMUsj,AA,['Walker Hayes'],7sKxqpSqbIzphAKAhrqvlf,False,62,189560,0.634,0.00354,0.764,0.0,0.337,-5.858,0.0297,104.03,0.736
+6AqwH2Y9FJwhUE2dCSkw1u,5 Foot 9,['Tyler Hubbard'],3BEV5FcxOtkQJ7lLRKMh3V,False,71,189780,0.602,0.146,0.796,0.0,0.125,-5.609,0.0465,106.005,0.53
+11kskoMyNDumaR30CI6rRv,Half Of Me,"['Thomas Rhett', 'Riley Green']",6x2LnllRG5uGarZMsD4iO8,False,65,183026,0.575,0.00683,0.842,0.0,0.279,-5.058,0.0348,111.995,0.665
+6Tm4Io4ct4w14nB1EUzsY3,Whiskey On You,['Nate Smith'],4NYMUsIcUUsBHbV9DICa5x,False,78,183789,0.479,7.02e-05,0.768,0.00549,0.121,-5.204,0.0312,110.024,0.576
+0pnKcAh5binHOP9HexWwnZ,Dancin' In The Moonlight (feat. Lauren Alaina),"['Chris Lane', 'Lauren Alaina']",68abRTdO4meYReMWHvBYb0,False,66,199000,0.589,0.0196,0.829,0.0,0.128,-4.861,0.0332,121.998,0.563
+6HBRLaSQ7NB8MNlaqzYen1,What My World Spins Around,['Jordan Davis'],77kULmXAQ6vWer7IIHdGzI,False,74,186790,0.675,0.105,0.726,0.0,0.153,-6.459,0.0461,124.872,0.671
+5ZCjp56T8J6d7amJyFSzrI,Heart Like A Truck,['Lainey Wilson'],6tPHARSq45lQ8BSALCfkFC,False,74,199040,0.587,0.148,0.632,1.01e-05,0.158,-5.416,0.0311,139.974,0.392
+4232gJU5ljjFmKaPh0cKds,Never Til Now (feat. Brett Young),"['Ashley Cooke', 'Brett Young']",2qwXeRk8VBAegbUnf3xdyi,False,64,173533,0.382,0.75,0.408,0.0,0.127,-7.552,0.0407,77.063,0.128
+1tRxwf8Q0AcshfHuaD86Yt,Country On,['Luke Bryan'],0BvkDsjIUla7X0k6CSWh1I,False,60,236455,0.52,0.171,0.751,7.4e-06,0.0624,-5.064,0.0551,156.044,0.519
+16Sdmdt7jpibASwEsO0s9j,Worth A Shot (feat. Dierks Bentley),"['Elle King', 'Dierks Bentley']",3bhu7P5PfngueRHiB9hjcx,False,64,211933,0.554,0.00481,0.809,0.00156,0.111,-4.893,0.039,159.989,0.462
+3h10bRUpzMu0Umm2iXleYb,Wastin' Whiskey,['James Barker Band'],54lUDwCk35ihJuK3yJCqHA,False,48,190160,0.54,0.048,0.82,0.0,0.139,-3.055,0.0388,76.038,0.699
+0De9jFjJ4eRLl7Yww2eBw1,Flower Shops (feat. Morgan Wallen),"['ERNEST', 'Morgan Wallen']",4GGfAshSkqoxpZdoaHm7ky,False,72,214405,0.527,0.118,0.461,0.0,0.0831,-5.908,0.0269,128.153,0.227
+2kEhQe0BVtY8IIaFE5ALA0,Pickup,['MacKenzie Porter'],6nXco5Q3cJJ0ZutnBOsSpq,False,59,168447,0.614,0.45,0.837,2.49e-05,0.115,-3.967,0.0255,96.977,0.862
+4eBaGa3ykdcmrGSKlHrAnV,Throw It Back (feat. Keith Urban),"['BRELAND', 'Keith Urban']",0C86lmpnwiyLDUiyo4d0P1,False,53,187219,0.794,0.0541,0.733,0.0,0.03,-4.915,0.0884,93.932,0.521
+5FfgLIooERZ7rcNcwxAcdF,Hey Cowboy,['Devon Cole'],1VFt2HpmFG8Ufq6SDCoZe4,False,57,187049,0.771,0.0274,0.452,0.0,0.232,-6.648,0.0679,91.006,0.904
+4uJDDG8vXJ6fZHtTfrPfMX,She Likes It (feat. Jake Scott),"['Russell Dickerson', 'Jake Scott']",1E2AEtxaFaJtH0lO7kgNKw,False,64,163311,0.79,0.509,0.325,0.0,0.155,-11.689,0.127,126.877,0.539
+7eqCfMp6Lle7Ij3QjOwrya,If I Was a Cowboy,['Miranda Lambert'],66lH4jAE7pqPlOlzUKbwA0,False,60,194760,0.579,0.357,0.622,0.0,0.116,-5.683,0.0284,80.0,0.646
+2uZzPb5Y4ZUancg3dSMauB,Songs About You,['Brett Eldredge'],0qSX3s5pJnAlSsgsCne8Cz,False,54,202386,0.649,0.147,0.558,0.0,0.172,-4.863,0.0253,89.988,0.635
+1ynN7dkkujotC2rL31qX48,First Taste of Gone,['Josh Ross'],1ZGTSMjK1D2HrpPTOh916U,False,58,172782,0.647,0.831,0.374,0.0,0.103,-7.175,0.0264,106.05,0.406
+0ENB9P6WtUEKYjQ3dKnK23,Everything She Ain’t,['Hailey Whitters'],4e9TBaTlI3LVQz3tkTYC0I,False,65,151973,0.796,0.175,0.621,0.0,0.274,-6.129,0.0346,121.904,0.808
+4viFAHmivkYQKkwLvwKOgg,Water Under The Bridge,['Sam Hunt'],2kucQ9jQwuD8jWdtR9Ef38,False,71,169760,0.635,0.0697,0.866,0.0,0.0955,-2.695,0.0473,133.889,0.853
+75rvf9Hbx1R5NikWybJl9e,Jealous of Myself,['Tenille Arts'],0gSAxSvAApQc71cTpoXDFu,False,50,206320,0.563,0.776,0.467,0.0,0.106,-4.23,0.034,137.665,0.338
+5JLf54f83nJrxD4IhFaLl7,Brown Eyes Baby,['Keith Urban'],0u2FHSq3ln94y5Q57xazwf,False,70,224333,0.521,0.0906,0.833,3.13e-06,0.0647,-6.992,0.0313,141.944,0.581
+1xVbzgjxGIPl4jdPuvtQ7D,Best Of Me (feat. Dallas Smith),"['Josh Ramsay', 'Dallas Smith']",5lemlzREG6FOAergTgPi9B,False,37,240716,0.475,0.00373,0.751,0.0,0.0857,-6.572,0.039,153.951,0.318
+15e2jfRPI2mYAOPMDyytP0,Wishful Drinking (with Sam Hunt) - Bonus Track,"['Ingrid Andress', 'Sam Hunt']",0jPnVIasXzBYjrlpO5irii,False,62,194544,0.678,0.289,0.528,0.0,0.0734,-7.317,0.0551,79.018,0.614
+1pbUfl4W9KtQ5hNkT6RiXp,Out In The Middle,"['Zac Brown Band', 'Blake Shelton']",6yJCxee7QumYr820xdIsjo,False,65,166300,0.516,0.0237,0.867,0.0,0.106,-3.139,0.0328,166.031,0.615
+79X3dUeEnrYoJMQM3I8ZTG,Float,['Tim & The Glory Boys'],2TWquaofWA67mGmfN72csX,False,46,214692,0.515,0.103,0.887,2.01e-06,0.186,-5.206,0.0445,175.95,0.606
+1wwjfgCUXaupR7q3tv6ZXN,Me On You,['Muscadine Bloodline'],0EyZDKtc41e4A3a3v69MxD,False,60,167266,0.72,0.221,0.798,0.0,0.181,-5.42,0.0359,97.918,0.949
+3JF3flDpns4Djyjw7qkLlX,Right On Time,['Lindsay Ell'],4lpA7MWpQpY7hKkwfLxw2Q,False,51,186094,0.632,0.0293,0.808,2.01e-05,0.0833,-4.759,0.0397,93.982,0.597
+1S55d7hhptRt8PS6nC1fSY,HEARTFIRST,['Kelsea Ballerini'],3RqBeV12Tt7A8xH3zBDDUF,False,58,187016,0.662,0.021,0.855,0.0,0.228,-3.742,0.0457,120.079,0.84
+4qbibbQ1yK0rPl0JUJS0bz,Every Night Every Morning,['Maddie & Tae'],34bhyY8jfKez7uKakMfy4y,False,71,196890,0.618,0.00799,0.75,0.0,0.141,-4.608,0.0287,123.885,0.619
+3MpZM408Ly3jq76tF9OmZu,Ghost Story,['Carrie Underwood'],4xFUf1FHVy696Q1JQZMTRj,False,53,181400,0.472,0.00734,0.743,0.000988,0.257,-5.615,0.0516,142.868,0.418
+4RG7P0CXQ4pe0OeCAHjX5L,Wild as Her,['Corey Kent'],3sUpZrkehiGBaMzs2h9Mmc,False,74,199733,0.504,0.00216,0.736,0.0,0.129,-6.079,0.0352,148.014,0.46
+2bLa8N2vtooX5Sc0r1NmzO,Same Beer Different Problem,['Darius Rucker'],7FY5V3XMwlNBPitEjXowHQ,False,49,180386,0.591,0.0156,0.876,0.0,0.159,-3.145,0.0886,149.952,0.881
+3AKwkcaoREu24cKpKwnYj7,Hell Yeah,['Little Big Town'],3CygdxquGHurS7f9LjNLkv,False,52,175840,0.581,0.141,0.596,0.0,0.0874,-5.01,0.0355,171.975,0.912
+08TCIO6LpgC11UdayeOxWB,Circles Around This Town,['Maren Morris'],6WY7D3jk8zTrHtmkqqo5GI,False,54,195760,0.591,0.015,0.814,0.0,0.117,-4.986,0.0468,149.9,0.815
+3CdUlano6ybGrlycGfEVgt,Don't Come Lookin',['Jackson Dean'],0VkWDV0Bfd0EkXvaKAXUTl,False,60,187957,0.529,0.0115,0.858,2.91e-05,0.345,-6.015,0.0536,156.128,0.676
+04YKO5t4AZrsqKfGhhUb2j,Ride the Lightning - 717 Tapes,['Warren Zeiders'],7kplJl06UmldxLKseURAYi,False,62,186458,0.576,0.75,0.474,8.74e-05,0.0944,-6.342,0.0331,77.834,0.4
+2L34x2yCo1PUqTxNL1Nl67,Longneck Way To Go,"['Midland', 'Jon Pardi']",1DTZRmlVZBxx2wRQBtx6yi,False,52,188400,0.485,0.00177,0.883,6.38e-06,0.37,-4.906,0.0403,129.021,0.604
+1EfTaVUbZmrtqniZTj6LYF,down home,['Jimmie Allen'],147nKr9upHZSSxqCzh9j7c,False,57,201733,0.584,0.01,0.821,0.0,0.196,-3.628,0.0305,146.0,0.571
+1dQYswRaULYA9XfPc02FF1,Thinkin' We're In Love,"['Tyler Rich', 'Marie-Mai']",78eqps3BavCqe2q7GCU1VK,False,49,228038,0.509,0.0485,0.741,0.0,0.25,-5.702,0.036,88.076,0.197
+2lFXpH7botT14StfvOoNf0,Call It Country,"['Sacha', 'Jade Eagleson']",2uEreYoQc89UcxvADYQY2u,False,38,203431,0.5,0.203,0.831,0.0,0.312,-4.421,0.0408,76.004,0.623
+2wgCb69kASEz1uOUp4zjOi,One Too,"['Dallas Smith', 'MacKenzie Porter']",2HgKf6VcQtGmAKpNXidtiC,False,49,201128,0.457,0.507,0.523,0.0,0.0997,-7.176,0.039,84.664,0.341
+1y4egr8J0Mk9J3utQF2pSS,Breakups,['Seaforth'],1ryJB2bhfYjjIt8kqy4BoG,False,47,223129,0.529,0.436,0.552,0.0,0.0783,-5.945,0.0309,74.931,0.328
+2T6LorlhK71uT66I6lJegX,Stop Draggin' Your Boots,['Danielle Bradbery'],5iqStkZi6QmG8sgQZQrfGN,False,56,164347,0.463,0.0379,0.76,0.0,0.115,-5.958,0.11,123.899,0.65
+3OrlmNdA67bCjVJxbu2eNg,Whiskey Does,['Tim Hicks'],05kfnkzu8HdqnCdHHkJeci,False,38,216093,0.505,0.00838,0.813,0.0,0.321,-4.642,0.0317,144.091,0.714
+7dy8PkzpwT5cUPlMCfmd8Z,Don't It Sound Alright,['Adam Doleac'],4NsVVzuaZGk4aya8Pyacew,False,56,218800,0.639,0.0401,0.553,0.0,0.0783,-4.917,0.0246,130.061,0.482
+5C74crqzqBKdmIz4CXkTlg,Whatever It Takes,['High Valley'],5sQqZtsAbXAoAnvA8iN9kN,False,49,168253,0.567,0.0321,0.746,0.0,0.305,-4.762,0.0377,93.947,0.349
+0KRIVhkwM3cP4etnY9Qm0o,Say It,['Robyn Ottolini'],2mAb9JDF63azaglqA7c9bb,False,50,185427,0.562,0.0183,0.727,0.0,0.0397,-5.455,0.0359,108.081,0.325
+5hGeFMy9ilkY029FJz9QFv,I Ain't Drunk (feat. Terri Clark),"['Gord Bamford', 'Terri Clark']",1w9VjfHGE5qPLJQy3dKups,False,43,204586,0.611,0.202,0.808,0.0,0.134,-3.671,0.0424,108.069,0.577
+05XhhXmBu1aUPNFLlTZ9XJ,What Was I Drinking,['Tebey'],2S0WpGRnEPyS5OuMp3KOEo,False,39,177413,0.639,0.0189,0.897,0.0,0.239,-2.858,0.0352,115.999,0.552
+6iih0GgBFzmu50GkEI8VDf,Tailgate To Heaven (feat. Chris Lane),"['Shawn Austin', 'Chris Lane']",72iCV78mmAfr5s4A5dhjYg,False,37,185883,0.517,0.0173,0.752,0.0,0.117,-6.621,0.0339,74.996,0.551
+5ImWIX3cFFtj5e3dkyKgs0,She's On It,['Travis Denning'],6CegFHnUqJcOBipgphZ2CJ,False,42,197509,0.497,0.0447,0.796,0.0,0.107,-5.545,0.0384,77.013,0.435
+6tCKxf3W394Qz7JXcUoQux,Close To You,['Andrew Hyatt'],6L1jfL0BaxCDXCcy51CEcg,False,37,165416,0.612,0.0121,0.842,0.0,0.104,-5.646,0.0281,119.946,0.436
+4xvjIj6hR1HNv5G0ooi0CG,My Left Hand,['Meghan Patrick'],5bQxLohAAiOat0EMYuHjzJ,False,42,187360,0.539,0.518,0.596,0.0,0.154,-4.227,0.0321,153.936,0.381
+670avKEDoIrvyoLOgNJF7m,Come On With It,['Coffey Anderson'],29YJnMJ7MoLKPM04siMnP5,False,38,157226,0.453,0.0316,0.888,0.0,0.31,-3.214,0.0342,174.164,0.851
+5XbhQuCnEv2EzTVGoyLAEj,Ain't Like Me,['Nate Haller'],5nAWMdNNuSpUNxzwqaBQQr,False,37,174160,0.589,0.0221,0.819,0.0,0.166,-3.692,0.0646,105.978,0.574
+2DiDaZdGU6Ey3mn6LCDVnh,Never Met A Beer,"['Tyler Joe Miller', 'Matt Lang']",1MmpCgmJymS8Etwm9RxuxM,False,35,172235,0.585,0.0964,0.927,0.0,0.083,-4.254,0.0508,148.051,0.56
+27VXGsgJOEj7aYW6uWdJxK,Nashville Or Nothing,['Steven Lee Olsen'],5MW08rvyz59mdceF4urxXO,False,39,165838,0.598,0.0786,0.763,0.0,0.0909,-4.545,0.0376,119.98,0.52
+6iivlt5obvMyejm91rfGgM,Neon Blue,['Mariel Buckley'],7lghcHbrdt7sqHWeya15aV,False,34,259790,0.542,0.142,0.741,0.00189,0.169,-6.967,0.0568,122.067,0.353

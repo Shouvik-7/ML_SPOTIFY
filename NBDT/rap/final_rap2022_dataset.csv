@@ -1,0 +1,61 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),"['Drake', '21 Savage']",3TVXtAsR1Inumwj472S9r4,True,86,218364,0.529,0.000307,0.673,2.41e-06,0.093,-4.711,0.175,165.921,0.366
+1rDQ4oMwGJI7B4tovsBOxc,First Class,['Jack Harlow'],2LIk90788K0zvyj2JJVwkJ,True,35,173947,0.905,0.0254,0.563,9.71e-06,0.113,-6.135,0.102,106.998,0.324
+59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),"['Future', 'Drake', 'Tems']",1RyvyyTE3xzB2ZywiAwp0i,True,84,189893,0.463,0.314,0.642,0.0,0.0686,-4.474,0.34,83.389,0.339
+1CfuBY3BDdKpooQ9L5zgUc,Cigarettes,['Juice WRLD'],4MCBfE4596Uoi2O4DtmEMz,True,75,227527,0.587,0.0306,0.614,0.0,0.399,-6.344,0.0435,160.075,0.451
+3RSNYrTfBFBv4NTRfKNp2M,Cooped Up (with Roddy Ricch),"['Post Malone', 'Roddy Ricch']",246dkjvS1zLTtiykXe5h60,True,55,185857,0.669,0.038,0.773,0.0,0.113,-5.619,0.153,93.923,0.377
+0fX4oNGBWO3dSGUZcVdVV2,N95,['Kendrick Lamar'],2YZyLoL8N0Wb9xBt1NhZWg,True,79,195950,0.79,0.377,0.67,2.32e-06,0.119,-5.527,0.105,139.956,0.408
+3XOalgusokruzA5ZBA2Qcb,pushin P (feat. Young Thug),"['Gunna', 'Future', 'Young Thug']",2hlmm7s2ICUX0LVIhVFlZQ,True,75,136266,0.773,0.00783,0.422,0.00693,0.129,-4.572,0.187,77.502,0.488
+2dHHgzDwk4BJdRwy9uXhTO,Creepin' (with The Weeknd & 21 Savage),"['Metro Boomin', 'The Weeknd', '21 Savage']",0iEtIxbK0KxaSlF7G42ZOp,True,95,221520,0.715,0.417,0.62,0.0,0.0822,-6.005,0.0484,97.95,0.172
+1hB3M3POeKMLxcEFEvPeqU,Already Dead,['Juice WRLD'],4MCBfE4596Uoi2O4DtmEMz,True,72,231220,0.744,0.0216,0.495,0.0,0.111,-6.311,0.0634,83.51,0.128
+1HvTxgCj0mTzQlEo0zLvFb,In My Head,['Lil Tjay'],6jGMq4yGs7aQzuGsMgVgZR,True,74,135264,0.684,0.159,0.545,0.0,0.102,-6.885,0.121,143.049,0.407
+1bDbXMyjaUIooNwFE9wn0N,Rich Flex,"['Drake', '21 Savage']",3TVXtAsR1Inumwj472S9r4,True,90,239359,0.561,0.0503,0.52,1.86e-06,0.355,-9.342,0.244,153.15,0.424
+7Ddk8FhoYKdsVoX9AOCPMm,STAYING ALIVE (feat. Drake & Lil Baby),"['DJ Khaled', 'Drake', 'Lil Baby']",0QHgL1lAIqAw0HtD7YldmP,True,70,178176,0.677,0.0668,0.495,0.0,0.319,-7.174,0.0821,129.974,0.152
+1oc92BMKYkNxK17C2GtyRM,Distraction,['Polo G'],6AgTAQt8XS6jRWi4sX7w49,True,69,171319,0.713,0.16,0.689,0.0,0.136,-5.99,0.255,156.934,0.63
+6g6FfeozIEkVUXecpSq16Q,Elon Musk (feat. Gunna),"['DDG', 'Gunna']",0WK3H9OErSn5zKOkOV5egm,True,60,205758,0.826,0.441,0.583,0.0,0.155,-5.186,0.0626,140.039,0.539
+5qgFgsrrxOjyPmX5YCuK2E,PUFFIN ON ZOOTIEZ,['Future'],1RyvyyTE3xzB2ZywiAwp0i,True,64,172933,0.883,0.0603,0.657,0.0,0.128,-5.748,0.305,124.992,0.284
+42vJocnlXMjv9BiZJmoRBw,AHHH HA,['Lil Durk'],3hcs9uc56yIGFCSy9leWe7,True,43,186538,0.676,0.000114,0.61,1.73e-06,0.191,-9.185,0.273,156.005,0.519
+3LtpKP5abr2qqjunvjlX5i,Doja,['Central Cee'],5H4yInM5zmHqpKIoMNAx4r,True,84,97392,0.911,0.38,0.573,0.0,0.403,-7.43,0.288,140.04,0.972
+1QPreu0BNOrUfEb8HTd2qG,Rich Spirit,['Kendrick Lamar'],2YZyLoL8N0Wb9xBt1NhZWg,True,76,202285,0.852,0.428,0.421,2.28e-06,0.106,-9.153,0.208,95.977,0.457
+0vjeOZ3Ft5jvAi9SBFJm1j,Superhero (Heroes & Villains) [with Future & Chris Brown],"['Metro Boomin', 'Future', 'Chris Brown']",0iEtIxbK0KxaSlF7G42ZOp,True,89,182666,0.526,0.152,0.606,2.36e-06,0.194,-5.3,0.259,116.622,0.492
+3mmA9C8Gt8xojss3bVHrgC,City of Gods,"['Fivio Foreign', 'Kanye West', 'Alicia Keys']",14CHVeJGrR5xgUGQFV5BVM,True,33,256000,0.469,0.105,0.799,0.0,0.32,-5.983,0.387,147.847,0.495
+06JvOZ39sK8D8SqiqfaxDU,True Love,"['Kanye West', 'XXXTENTACION']",5K4W6rqBFWDnAN6FQUkS6x,False,76,148571,0.712,0.0182,0.861,6.09e-06,0.511,-5.487,0.25,84.042,0.388
+6ws54n2IzyrIxxyzlG2bVJ,Right On,['Lil Baby'],5f7VJjfbwm532GiveGC0ZK,True,69,213975,0.535,0.0245,0.618,0.0,0.103,-5.668,0.382,165.991,0.211
+5NDad2eRVKQug7eO2RikcU,Eazy,"['The Game', 'Kanye West']",0NbfKEOTQCcwd6o7wSDOHI,True,43,234216,0.627,0.165,0.584,0.0,0.254,-6.821,0.497,78.691,0.287
+6EbVuwU7EnKeF2hdpViXCH,Die Young (feat. 347aidan),"['Sleepy Hallow', '347aidan']",6EPlBSH2RSiettczlz7ihV,True,76,148816,0.808,0.827,0.582,0.0,0.111,-6.26,0.338,77.471,0.675
+3ioJs8DQw527GmqJIp5gZG,Nail Tech,['Jack Harlow'],2LIk90788K0zvyj2JJVwkJ,True,64,206385,0.677,0.00508,0.557,8.36e-06,0.0984,-8.409,0.0694,150.127,0.1
+1X8E4vVoOM3BpSQlEDSjjM,Burn,['Juice WRLD'],4MCBfE4596Uoi2O4DtmEMz,True,69,217222,0.354,0.149,0.475,0.034,0.21,-9.333,0.0425,114.975,0.0393
+0P2P1AxcRYhiZvoF5MyRmM,Rumors (feat. Lil Durk),"['Gucci Mane', 'Lil Durk']",13y7CgLHjMVRMDqxdx0Xdo,True,66,185855,0.688,0.0499,0.842,0.0,0.241,-4.211,0.264,159.897,0.416
+3ihIZrJreMJPjQdNLrEXnP,In A Minute,['Lil Baby'],5f7VJjfbwm532GiveGC0ZK,True,69,200470,0.643,0.0336,0.605,0.0,0.112,-5.968,0.297,84.216,0.145
+7Fege3yv4dvehB3NdRBGwI,Banking On Me,['Gunna'],2hlmm7s2ICUX0LVIhVFlZQ,True,71,200000,0.793,0.613,0.308,1.68e-05,0.0953,-10.414,0.0466,135.143,0.46
+5XsK0uaHNmE2IgoRkXk5up,What Happened To Virgil (feat. Gunna),"['Lil Durk', 'Gunna']",3hcs9uc56yIGFCSy9leWe7,True,43,181393,0.795,0.067,0.526,2e-06,0.134,-9.086,0.204,140.037,0.194
+2BJWxD8xKrDv8vneTvTIm9,Beat the Odds,['Lil Tjay'],6jGMq4yGs7aQzuGsMgVgZR,True,72,150000,0.498,0.054,0.625,0.0,0.175,-7.452,0.342,84.821,0.478
+0LnS7aOdOdI1dNKZqdOLz4,Dua Lipa,['Jack Harlow'],2LIk90788K0zvyj2JJVwkJ,True,73,135053,0.833,0.00161,0.652,0.0985,0.106,-6.942,0.0762,158.022,0.405
+3K1E9RAuMzC9g0ig3KsBBr,V12 (feat. Lil Uzi Vert),"['iann dior', 'Lil Uzi Vert']",6ASri4ePR7RlsvIQgWPJpS,True,54,177835,0.705,0.411,0.681,0.0,0.121,-3.286,0.148,164.941,0.626
+5Yug0vdBalgyoy1OzlNnaW,FOR FUN,['Lil Uzi Vert'],4O15NlyKLIASxsJ0PrXPfz,True,52,188059,0.775,0.157,0.461,0.0,0.0687,-6.594,0.124,134.028,0.131
+1dp8aQANyTRKssDeAYPiZe,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),"['Pusha T', 'Lil Uzi Vert', 'Don Toliver']",0ONHkAv9pCAFxb0zJwDNTy,True,65,152612,0.594,0.484,0.679,7.83e-06,0.114,-3.702,0.345,106.726,0.66
+7My9ca9QEIR8MvIOdIrTWA,From The D 2 The LBC (with Snoop Dogg),"['Eminem', 'Snoop Dogg']",7dGJo4pcD2V6oG8kP0tJRR,True,66,215120,0.73,0.105,0.785,0.0,0.0445,-7.986,0.243,82.037,0.596
+27jThnrlCYR5fqSaRfjmxX,Let's Get It (Remix) [feat. 21 Savage],"['Hunxho', '21 Savage']",508weSx4HBumrGggFmc7br,True,54,156995,0.863,0.0758,0.499,0.0,0.104,-8.602,0.514,80.073,0.76
+5kYSScXYOZYyi0fxramiW6,BEAUTIFUL (feat. Future & SZA),"['DJ Khaled', 'Future', 'SZA']",0QHgL1lAIqAw0HtD7YldmP,True,65,223232,0.489,0.103,0.55,0.0,0.118,-6.729,0.233,171.882,0.241
+5QvW5lK6mkfTegpAK9JOO7,Paris to Tokyo,"['Fivio Foreign', 'The Kid LAROI']",14CHVeJGrR5xgUGQFV5BVM,True,63,130897,0.642,0.0185,0.787,0.0,0.288,-6.389,0.17,146.733,0.406
+32ny2YtiR7zKi7PBjiQ5Iy,Real Talk,['Roddy Ricch'],757aE44tKEUQEqRuT6GnEB,True,61,183186,0.789,0.128,0.71,0.0,0.112,-6.165,0.0681,138.033,0.188
+1Y5Jvi3eLi4Chwqch9GMem,Super Gremlin,['Kodak Black'],46SHBwWsqBkxI7EeeBEQG7,True,71,200547,0.825,0.00265,0.414,0.0,0.357,-6.634,0.144,72.993,0.106
+3uJFmluXzYedoJcvhpC1AW,Hot Shit (feat. Ye & Lil Durk),"['Cardi B', 'Kanye West', 'Lil Durk']",4kYSro6naA4h99UJvo89HB,True,70,211649,0.878,0.00152,0.685,0.0,0.0753,-5.28,0.225,157.003,0.523
+7FCHDXa579YivyHrsxixRp,let you,['iann dior'],6ASri4ePR7RlsvIQgWPJpS,True,59,151733,0.598,0.262,0.838,0.0,0.122,-5.513,0.0881,170.191,0.704
+3S68RFe1lsdCdTMPIMJM3X,Cash In Cash Out,"['Pharrell Williams', '21 Savage', 'Tyler, The Creator']",2RdwBSPQiwcmiDo9kixcl8,True,73,216135,0.877,0.00721,0.56,1.45e-06,0.0839,-3.751,0.0596,119.971,0.154
+0QNNd0qMCDbraS1nQPg3aA,HOTEL LOBBY (Unc & Phew),"['Quavo', 'Takeoff']",0VRj0yCOv2FXJNP47XQnx5,True,76,142657,0.821,0.142,0.636,0.0,0.233,-4.479,0.169,127.961,0.163
+6OrTKLtcF7EBayOV2QqkSK,Hold That Heat (feat. Travis Scott),"['Southside', 'Future', 'Travis Scott']",23DYJsw4uSCguIqiTIDtcN,True,67,221538,0.744,0.0295,0.608,0.0,0.397,-6.386,0.0442,130.045,0.0692
+1t55dGrBkLvKDzNa9QJ3LV,too easy,"['Gunna', 'Future']",2hlmm7s2ICUX0LVIhVFlZQ,True,63,138453,0.798,0.027,0.572,0.0,0.099,-6.627,0.17,155.933,0.293
+46b23Nj2UftnN8jSWz4VR5,Surround Sound (feat. 21 Savage & Baby Tate),"['JID', '21 Savage', 'Baby Tate']",6U3ybJ9UHNKEdsH7ktGBZ7,True,37,229938,0.574,0.164,0.567,0.0,0.258,-7.126,0.465,75.965,0.526
+3vySEUpD0tc801F2WZDLYw,Freaky Deaky,"['Tyga', 'Doja Cat']",5LHRHt1k9lMyONurDHEdrp,True,70,215281,0.799,0.019,0.653,0.0,0.0935,-5.453,0.037,104.019,0.236
+3GdWfmQBiiJrDUvSZS1bGv,Never Sleep (with Lil Baby feat. Travis Scott),"['NAV', 'Lil Baby', 'Travis Scott']",7rkW85dBwwrJtlHRDkJDAC,True,70,185785,0.819,0.00639,0.651,0.0,0.122,-5.829,0.169,139.957,0.501
+6r9xnueU24r4eoG3HXC87E,Bestie,"['DaBaby', 'YoungBoy Never Broke Again']",4r63FhuTkUYltbVAg5TQnk,True,69,111970,0.807,0.0741,0.625,0.0,0.487,-6.67,0.351,146.031,0.871
+5auKzb2kuqO3lTcoybxVJI,No Remorse,['Sheff G'],1tG7s7S4sq2eFFW0QZyLbm,True,57,149865,0.685,0.819,0.558,0.000127,0.108,-5.192,0.109,140.884,0.691
+46s57QULU02Voy0Kup6UEb,Major Distribution,"['Drake', '21 Savage']",3TVXtAsR1Inumwj472S9r4,True,78,170501,0.908,0.0127,0.546,0.0,0.0707,-10.491,0.323,131.016,0.225
+6ug9fUi5oLLgQgOF1G8WkM,California Breeze,['Lil Baby'],5f7VJjfbwm532GiveGC0ZK,True,74,177789,0.738,0.00361,0.666,0.0,0.107,-6.97,0.455,161.734,0.215
+5OIz27S6SQOJtweneBd6QP,Do What I Want,['Kid Cudi'],0fA0VVWsXO9YnASrzqfmYu,True,63,172053,0.822,0.0895,0.874,3.71e-06,0.0737,-4.006,0.113,155.032,0.369
+4FyesJzVpA39hbYvcseO2d,Just Wanna Rock,['Lil Uzi Vert'],4O15NlyKLIASxsJ0PrXPfz,True,90,123890,0.486,0.0652,0.545,0.00474,0.0642,-7.924,0.0336,150.187,0.0385
+0oO1AbL92F6329z13C2qQH,Talk,['Yeat'],3qiHUAX7zY4Qnjx8TNUzVx,True,76,174857,0.698,0.0873,0.763,0.0,0.647,-4.716,0.205,139.939,0.252
+2RJAKIw6nIkgZVsAIKhmqz,In My Head,['Juice WRLD'],4MCBfE4596Uoi2O4DtmEMz,True,76,192000,0.633,0.269,0.548,0.0,0.16,-5.634,0.0467,160.011,0.35
+3zkyus0njMCL6phZmNNEeN,LET GO,['Central Cee'],5H4yInM5zmHqpKIoMNAx4r,True,88,174246,0.735,0.859,0.449,0.0,0.213,-9.933,0.383,146.016,0.514
+4WuOWVnAqvEQxgSRrspBgt,Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"['Metro Boomin', 'Travis Scott', '21 Savage']",0iEtIxbK0KxaSlF7G42ZOp,True,83,207306,0.671,0.189,0.658,8.66e-05,0.147,-5.567,0.309,87.933,0.257

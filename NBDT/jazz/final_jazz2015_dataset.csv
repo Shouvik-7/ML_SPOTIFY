@@ -1,0 +1,98 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+3Str3OZii9YMeMOuJLG577,Beautiful Love,['Sophie Milman'],19GI8I4UhSpBl8Y9XpKyT4,False,0,178413,0.435,0.875,0.349,3.31e-05,0.169,-9.517,0.0349,106.938,0.315
+78aWV07CIrSfI903fIxjR1,Dream A Little Dream Of Me - Single Version,"['Ella Fitzgerald', 'Louis Armstrong']",5V0MlUE1Bft0mbLlND7FJz,False,0,185240,0.512,0.895,0.207,0.0,0.128,-11.366,0.0798,86.047,0.335
+79KMw5grBPDLAJTPho7DOe,Cry Me A River,['Dinah Washington'],32LHRiof0sa4taYew9i3Fa,False,0,146226,0.31,0.898,0.22,0.0211,0.108,-16.61,0.0357,99.44,0.275
+6ipZfr1msvNOxyroHB0s3w,Feeling Good,['Nina Simone'],7G1GBhoKtEPnP86X2PvEYO,False,0,173706,0.401,0.879,0.349,0.0,0.274,-9.255,0.0428,110.345,0.584
+3TALzheHpVKUIkWX83cx95,Deep in It,['St Germain'],484sZUYmnRXN84zmk3GY1n,False,0,438333,0.729,0.0324,0.574,0.892,0.114,-13.444,0.0457,121.903,0.0593
+39T2KhyV3fAwpzUFSgX4FQ,Other Side Of The Game,['Erykah Badu'],7IfculRW2WXyzNQ8djX8WX,False,2,393733,0.657,0.433,0.253,0.514,0.116,-10.665,0.0855,83.213,0.186
+1iXpq6uyves7dVGJ4MwGYr,Somethin' Else - Remastered,['Cannonball Adderley'],5v74mT11KGJqadf9sLw4dA,False,33,494026,0.512,0.468,0.469,0.0,0.191,-6.825,0.032,78.651,0.593
+5qRJZGqWHMpKRxk8rmAVto,Gloomy Sunday,['Branford Marsalis'],1gPY6jETlC02stpXOUmSBH,False,30,763466,0.421,0.91,0.0967,0.415,0.218,-16.441,0.0509,77.401,0.183
+3MYojP082i6SdgmUxZWgMu,Twilight...And Beyond,['Joshua Redman'],3uaHfXYx9Fh4HjqMbrWn5S,False,24,660400,0.459,0.822,0.187,0.382,0.104,-15.31,0.0473,143.059,0.259
+6rK27cC9hX0e1Chrnxo9Vn,My Romance - Rudy Van Gelder Remaster,['Gene Ammons'],338mC0yGyX0C9of8QMJ5hK,False,51,252946,0.519,0.966,0.0422,0.929,0.124,-10.778,0.0537,130.436,0.397
+,'Round Midnight,['Various Artists'],,False,0,310000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5YHPH0wpc5IMqNNrbN3JMm,Sleep Away,['Bob Acri'],5LgnVUVYlM9jqiyYMgNMMB,False,40,201226,0.507,0.939,0.137,0.929,0.112,-21.449,0.0393,99.496,0.256
+01F7FoBqnpYRZWTuSH1U9i,Feels So Good - Single Version,['Chuck Mangione'],2MMaIlHd8UvDW0mVRAncD6,False,0,212226,0.616,0.36,0.507,0.0168,0.092,-12.339,0.0461,104.841,0.626
+13Y8guAjsfss2WPIINuoYd,Favela - Remastered,['Ike Quebec'],6y7dRlvApiCjP12JrxWQjh,False,45,240266,0.605,0.931,0.128,0.601,0.127,-18.793,0.109,148.197,0.796
+38dvyMaOLhZeui8VB7XrYT,'Round Midnight,"['Thelonious Monk', 'Gerry Mulligan', 'Wilbur Ware', 'Shadow Wilson']",4PDpGtF16XpqvXxsrFwQnN,False,13,508320,0.569,0.984,0.168,0.898,0.178,-16.998,0.0381,122.489,0.254
+1um3T5M9KAgWLDQk0IUzhh,Eronel,['Thelonious Monk'],4PDpGtF16XpqvXxsrFwQnN,False,0,270133,0.487,0.525,0.354,0.000273,0.0958,-13.884,0.0417,177.572,0.736
+6YYu8qFzcY1ZyzzsJIQM12,"Straight, No Chaser",['Thelonious Monk'],4PDpGtF16XpqvXxsrFwQnN,False,49,688133,0.465,0.41,0.35,0.279,0.135,-12.977,0.0403,93.336,0.62
+3s2RFp5hU6jEvAmfZrnrAi,I'll Let You Know,['David Hazeltine'],5mQGacj97PLCoX9YOEGf0Q,False,49,408600,0.442,0.92,0.124,0.605,0.21,-22.227,0.0388,65.003,0.2
+3PJMsxg6rz9FOo6xNiASXz,Goodbye Pork Pie Hat,['Charles Mingus'],1W8TbFzNS15VwsempfY12H,False,51,342373,0.356,0.957,0.0937,0.096,0.209,-16.64,0.0353,86.669,0.278
+4k6x6Na2uJ7oTcdpABrzLA,Wait Till You See Him - De-Phazz Remix,['Ella Fitzgerald'],5V0MlUE1Bft0mbLlND7FJz,False,37,231840,0.421,0.481,0.777,0.0752,0.501,-8.373,0.056,74.6,0.513
+5dMGTMxOOp4JDCI0ImTvRI,Hide and Seek,['Joshua Redman'],3uaHfXYx9Fh4HjqMbrWn5S,False,24,336573,0.761,0.499,0.284,0.284,0.0733,-12.605,0.0833,100.896,0.432
+4fpOXKIU9yRBoYkMhgJ24k,Jazz Crimes,['Joshua Redman'],3uaHfXYx9Fh4HjqMbrWn5S,False,30,403640,0.774,0.244,0.564,0.826,0.046,-11.872,0.0541,115.32,0.784
+2pRMhPlhI02g1kw7AP5i1i,Uptown Up,['Maceo Parker'],4RAQZfFgR7NPAWjKwUpEeC,False,0,256959,0.631,0.329,0.928,0.0528,0.256,-4.289,0.18,188.384,0.823
+2iUrcZcAuVIahQD0dg9HLe,Autumn Leaves,['Chet Baker'],3rxeQlsv0Sc2nyYaZ5W71T,False,50,423573,0.496,0.779,0.634,0.402,0.0746,-10.328,0.0364,93.357,0.606
+21o1NFkPB3JEKPtU1HB4Zs,Bye Bye Blackbird,['Miles Davis'],0kbYTNQb4Pb1rPbbaF0pT4,False,15,475066,0.625,0.561,0.32,5.36e-06,0.0979,-10.524,0.0458,122.931,0.365
+6A1mh31895sUIYEpOfeqC3,Ornithology,['Charlie Parker'],4Ww5mwS7BWYjoZTUIrMHfC,False,32,282200,0.475,0.532,0.689,0.00427,0.969,-9.351,0.054,117.407,0.823
+3UdF4BBwMU7ItFsjrRnfrB,They Can't Take That Away From Me,"['Louis Armstrong', 'Ella Fitzgerald']",19eLuQmk9aCobbVDHc6eek,False,0,281733,0.55,0.596,0.185,0.0,0.104,-15.333,0.0838,103.401,0.394
+5Mu12d5bIyy17rYoe5FDUN,Cheek To Cheek,"['Ella Fitzgerald', 'Louis Armstrong']",5V0MlUE1Bft0mbLlND7FJz,False,0,353533,0.687,0.918,0.201,0.0,0.107,-14.527,0.106,122.178,0.686
+0ZnaiqJVTRY0JTXQjmLGP1,Roxanne Não Ligar,"['Bossa Nostra', 'Silvia Donati']",4Ke5A5zOK8o7ITEKHvGZ7F,False,0,172320,0.714,0.336,0.649,0.000288,0.0906,-8.323,0.0356,95.072,0.824
+7M0RhMenrYmJasbhs3ixTP,De Sur a Oriente,['AcostaDos'],356EtALdR9wndhjjVjQWOI,False,0,536201,0.436,0.162,0.637,0.717,0.107,-8.393,0.0413,129.29,0.355
+2iuf8q0JzFh6oJdFYXsx1v,Face First,['Tribal Tech'],4OmMxTxYbR4ZDSvw4H0RAz,False,32,424973,0.566,0.0277,0.887,0.906,0.127,-10.24,0.0529,123.935,0.527
+415dIGsxo24JgyqmAun697,Snake Oil,['Tony Williams'],1TW90GjShgkjySrxBxcwQe,False,27,386066,0.437,0.00897,0.697,0.903,0.107,-13.617,0.0334,106.815,0.742
+1RTnm3X7m7ugfVYIDIlAho,Chicken,['Maceo Parker'],4RAQZfFgR7NPAWjKwUpEeC,False,31,502000,0.681,0.119,0.612,0.836,0.0526,-12.21,0.0631,94.292,0.926
+4Of4b1WiaU39cwUW5QKi8R,East of the Sun (And West of the Sun),['Joshua Redman'],3uaHfXYx9Fh4HjqMbrWn5S,False,6,335346,0.521,0.643,0.451,0.333,0.359,-11.41,0.065,135.326,0.4
+0Iwb29pXUWmysEs5wTgSNf,Shall We Dance?,['Cassandra Wilson'],6TZ5t4kclsmGWHqb3mGyha,False,0,439693,0.508,0.78,0.0426,0.000149,0.114,-22.659,0.0358,96.826,0.176
+5QTFfaz58xWPIOPXmdgodH,I Guess I'll Hang My Tears Out to Dry,['Dexter Gordon'],3NUsiT2JSyaWAnWaXxDzhQ,False,0,323400,0.529,0.93,0.1,0.00378,0.0526,-13.908,0.0391,118.05,0.333
+67dFm5nlac9wKCLuDTzkFD,If I Loved You (Remastered),['Benny Carter'],5dlCVmfRbWVGOJYHzGyk32,False,0,226080,0.621,0.666,0.206,0.0406,0.171,-11.787,0.035,131.87,0.429
+0tDjRP7g8xXDBgxw1FB4PK,Virgo,['Wayne Shorter'],0ZqhrTXYPA9DZR527ZnFdO,False,0,428306,0.451,0.962,0.0938,0.245,0.114,-19.085,0.0383,107.373,0.128
+1m3BAsNsQAaSNMD2M6vlKY,Breezin',['George Benson'],4N8BwYTEC6XqykGvXXlmfv,False,58,341733,0.682,0.476,0.752,0.863,0.0768,-9.521,0.0454,81.081,0.964
+1QWqz04mtyRqWIE9jwUx7w,In a Sentimental Mood,"['John Coltrane', 'Duke Ellington']",2hGh5VOeeqimQFxqXvfCUf,False,0,256200,0.467,0.946,0.26,0.0286,0.118,-13.195,0.0313,109.058,0.256
+71kCeveSuqDLrbpcWqnYRl,"Amplify My Soul, Pt. 2",['Incognito'],5moJNCJeiNwuQAhDLJXULs,False,9,184226,0.547,0.431,0.862,0.688,0.121,-5.761,0.117,154.057,0.263
+5Uftxvqqbi70QdCpLb0fKu,God Bless the Child,['Sonny Rollins'],1VEzN9lxvG6KPR3QQGsebR,False,33,445240,0.48,0.919,0.0685,0.00513,0.0766,-17.1,0.0345,102.546,0.142
+5Kwd8HB9VQ12yFSu0dM4Yi,St. Thomas,['Sonny Rollins'],1VEzN9lxvG6KPR3QQGsebR,False,31,235733,0.625,0.637,0.319,0.0755,0.0581,-12.803,0.113,109.792,0.692
+1KNjACGN7v4rBxD8wIxqJy,"There Will Never Be Another You - Live At The Museum Of Modern Art, New York, 1965",['Sonny Rollins'],1VEzN9lxvG6KPR3QQGsebR,False,0,994746,0.43,0.535,0.527,0.111,0.0992,-13.571,0.054,70.321,0.614
+79qVahzRJHttMTRtOLuJtp,Lagrimas Negras,"['Miguel Matamoros', 'Bebo & Cigala']",7fNFHXas6ZMoPje7ykAbvK,False,0,331160,0.53,0.639,0.329,0.000376,0.0774,-12.279,0.0898,156.559,0.495
+32v2zAwF1sfwmiPO4imcxs,Eu Sei Que Vou Te Amar (En Directo),"['Antônio Carlos Jobim', 'Vinícius de Moraes', 'Bebo & Cigala']",3pO5VjZ4wOHCMBXOvbMISG,False,0,245506,0.52,0.909,0.124,0.0253,0.95,-19.444,0.072,102.372,0.258
+0cWrotZwqQAUrYpEeliVuR,La Comparsa,['Chucho Valdés'],27mRThsZ9K1BYmz0rioxwp,False,34,416933,0.491,0.383,0.658,0.772,0.111,-9.693,0.0516,105.56,0.655
+5iHt2zihQWvVBGdPIR4dKT,Home Cookin',['Hilton Ruiz'],7uUrPQUnxCoQusOAh5I0D1,False,34,209173,0.654,0.775,0.638,0.92,0.108,-8.999,0.0465,146.388,0.79
+4vLYewWIvqHfKtJDk8c8tq,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)","['Miles Davis', 'John Coltrane', 'Cannonball Adderley', 'Bill Evans']",0kbYTNQb4Pb1rPbbaF0pT4,False,59,562640,0.532,0.706,0.151,0.00136,0.116,-17.266,0.0376,136.759,0.211
+62HV1lKsuQSzA75LCqeJYq,Don't Explain,"['Grover Washington, Jr.']",05YVYeV4HxYp5rrWalvuE1,False,12,671613,0.267,0.896,0.261,0.836,0.159,-16.487,0.0371,146.98,0.138
+3sRO5gO6TW3U34j7bIKZZ2,The Ruby and The Pearl,['Branford Marsalis Quartet'],795yvukGj0UOfcP8uftDq9,False,0,535680,0.631,0.869,0.235,0.909,0.134,-15.544,0.0297,95.122,0.301
+6UefAshHsqPdJPhvA8FG2D,Chromazone,['Mike Stern'],3zX0EMvB00JzxnRi5EIICP,False,0,462373,0.62,0.294,0.786,0.717,0.112,-11.184,0.0417,120.444,0.688
+38F5isOfAc4Aj6ZnVLW3PX,Drifting,['Ginger Tunes'],3OpJxAHfT0KsJzQqdX5SLb,False,0,336364,0.778,0.595,0.398,0.744,0.107,-9.821,0.0613,140.013,0.208
+2n6gEn0n2qDxTygTRmlHHo,All the Things You Are - 2003 Remastered,"['Paul Desmond', 'Gerry Mulligan']",68l2i6GeNtwQlhKS59u5bu,False,16,348826,0.537,0.634,0.182,0.0,0.121,-18.045,0.101,103.284,0.551
+1Yimq2iZciRfLDDdeGnhiA,Samba Cantina,['Paul Desmond'],68l2i6GeNtwQlhKS59u5bu,False,41,338200,0.497,0.831,0.317,0.265,0.101,-17.387,0.0455,152.421,0.779
+0P3bnA7M3QG6G6AB1dRY6Q,You'd Be So Nice To Come Home To,['Jim Hall'],5pMmqpG3HsoJ6EDDoXGXEr,False,24,425546,0.497,0.853,0.382,0.534,0.0955,-17.457,0.0337,111.309,0.738
+4QSjp5nuuNAdlzUbVhICRM,I Can't Help It,"['Esperanza Spalding', 'Joe Lovano']",5bepW5vcdRzheNc0F8lHJ5,False,26,282053,0.608,0.816,0.392,0.004,0.184,-14.797,0.0551,109.962,0.41
+2XY7HGbJvcPXoxt1P42awV,The Peacocks,"['Esperanza Spalding', 'Francisco Mela', 'Aruan Ortiz']",5bepW5vcdRzheNc0F8lHJ5,False,17,476840,0.303,0.657,0.363,0.906,0.113,-16.019,0.0361,81.666,0.319
+4NmvKXxRdHwCSUllXlG7md,Junjo,"['Esperanza Spalding', 'Francisco Mela', 'Aruan Ortiz']",5bepW5vcdRzheNc0F8lHJ5,False,11,313506,0.513,0.703,0.263,0.805,0.109,-21.508,0.0535,130.56,0.556
+7I5TZatYj6zoKjjfnLeIwh,Volare (Nel Blu di Pinto di Blu),['Gipsy Kings'],3jc496ljiyrS3ECrD7QiqL,False,0,218146,0.636,0.647,0.866,1.3e-05,0.317,-8.907,0.0527,116.097,0.902
+5oE6INocVL9viDow5y8QNM,Fragile,['Sting'],0Ty63ceoRnnJKVEYP0VQpk,False,63,236306,0.323,0.912,0.198,0.0698,0.0889,-21.035,0.0354,82.373,0.289
+4kwVOuG0NMh4DIBvtDRFPj,Night Birds - Single Edit,['Shakatak'],5FFtX4eFjh2vZQEl31d2XJ,False,0,264466,0.693,0.19,0.56,0.00121,0.173,-15.119,0.0356,116.755,0.85
+62GYoGszQfROZswLee6W3O,Give Me the Night,['George Benson'],4N8BwYTEC6XqykGvXXlmfv,False,64,222626,0.85,0.314,0.466,0.0234,0.129,-15.673,0.0555,109.936,0.86
+6a899bXlCuViXW2Qs8Rdqo,Turn Your Love Around,['George Benson'],4N8BwYTEC6XqykGvXXlmfv,False,54,230106,0.627,0.334,0.385,0.0,0.182,-13.655,0.0537,205.726,0.766
+2uT3aswFopLTgJ4QtixmcJ,Lily Was Here,['Candy Dulfer'],287jMoxHzjERgHI6ja8TKa,False,47,323320,0.59,0.25,0.756,0.209,0.922,-6.112,0.054,105.637,0.499
+1HGAyypXRqAI72snFLZWLv,Pick Up The Pieces,['Candy Dulfer'],287jMoxHzjERgHI6ja8TKa,False,31,571986,0.517,0.135,0.97,0.0587,0.901,-4.52,0.217,112.451,0.557
+1qCi1wxE12vDwPW8hf5UGA,My Life Starts Now,['Mark Guiliana'],798TUNb6IfpsZzMkkzVGu1,False,6,280027,0.3,0.00373,0.449,0.838,0.0749,-7.798,0.0353,81.397,0.0635
+1duf2LA0C0sfh0bI8praHX,Long Branch (Alternate Take),['Mark Guiliana'],798TUNb6IfpsZzMkkzVGu1,False,3,430143,0.368,0.0196,0.397,0.733,0.108,-16.247,0.0356,114.709,0.263
+1mYjsWmfgBlzDZj6x2USAC,Juanito Alimaña,['Diego El Cigala'],7mLYMGXg84miYydKwi2aRi,False,30,298880,0.661,0.579,0.818,0.000127,0.137,-3.726,0.036,180.696,0.875
+3Ynzju8or6Wo1CLQx5qyCQ,Love Has Come Around,['Incogntio'],6UXwyvG20XYz9pQL5t8xq9,False,0,501093,0.641,0.211,0.765,0.291,0.0706,-8.582,0.0394,113.03,0.618
+2lxhsaK7ZviM5foEilyHEX,Zaius - Ski Oakenfull Mix,['Incognito'],5moJNCJeiNwuQAhDLJXULs,False,0,512159,0.734,0.0331,0.712,0.911,0.0552,-8.095,0.043,127.994,0.937
+43CA2OCuOjGPjdvMZOjex7,I Human feat. Paul Randolph,"['Jazzanova', 'Paul Randolph']",0nTErwSOllrcUWt3knOG2T,False,0,305608,0.82,0.0112,0.572,0.0312,0.0605,-8.082,0.0373,117.02,0.963
+27k45gakYK0F23ucvEgQvH,Summer Wind,['Frank Sinatra'],1Mxqyy3pSjf8kZZL4QVxS0,False,0,174840,0.41,0.433,0.44,0.0,0.165,-8.893,0.0256,88.482,0.582
+5waDi1iXFdZoZtjNmJxMta,One For My Baby (And One More For The Road),['Frank Sinatra'],1Mxqyy3pSjf8kZZL4QVxS0,False,0,264373,0.339,0.988,0.0318,0.0022,0.104,-19.548,0.0405,176.55,0.199
+3NgbqEb4VID47c65fyAJic,Have You Ever Seen The Rain,['Karen Souza'],2d5lQo9YQ1DkAsBKTRp7Iu,False,49,250093,0.714,0.28,0.582,0.000168,0.683,-7.372,0.0292,117.006,0.355
+27MP3QeTblV0W6ZnDtBk5r,Memories of You,['Carol Welsman'],5nw4wMgfImhoebM0e2MzSR,False,44,290653,0.357,0.986,0.0991,0.00166,0.184,-13.975,0.0386,180.744,0.155
+0abKPbKY0dYPWozCwCgNDt,It Would Be So Easy - Radio Edit,['Cassandra Wilson'],6TZ5t4kclsmGWHqb3mGyha,False,5,306786,0.584,0.387,0.606,0.0529,0.107,-11.525,0.046,87.971,0.793
+5hGIRMjtrTpdMdTrZv4lh1,La Fiesta,['Chick Corea'],5olDKSsFhhmwh8UCWwKtpq,False,33,541680,0.212,0.8,0.561,0.00457,0.129,-14.217,0.0545,76.257,0.257
+5KdSyI6QS8k9RyrVL5UQD3,Chega de Saudade,"['Antônio Carlos Jobim', 'Yo-Yo Ma', 'Rosa Passos']",3pO5VjZ4wOHCMBXOvbMISG,False,31,256359,0.455,0.85,0.338,0.0701,0.0832,-17.099,0.0455,101.414,0.569
+6qxWhKDCvp9PDO7VrMjE9i,You Couldn't Be Cuter,"['Diana Krall', 'Yo-Yo Ma']",5z1VAFwT35EVvCp1XlZZuL,False,16,208560,0.509,0.88,0.239,8.98e-06,0.16,-14.152,0.0402,120.344,0.469
+5cZQrIte4JSr1ZX5Lu0B7l,My Favorite Things,"['Yo-Yo Ma', 'Chris Botti']",5Dl3HXZjG6ZOWT5cV375lk,False,20,389920,0.299,0.954,0.168,0.708,0.0964,-16.132,0.0354,92.725,0.139
+5XlvQH4YGch2tbDHns7T4w,Invitación al Danzón,"['Yo-Yo Ma', ""Paquito D'Rivera""]",5Dl3HXZjG6ZOWT5cV375lk,False,11,293133,0.426,0.985,0.274,0.788,0.192,-13.769,0.0341,114.784,0.481
+0yuUqVmERc7d4uevQj5Cj1,My One and Only Love,"['Yo-Yo Ma', 'Joshua Redman']",5Dl3HXZjG6ZOWT5cV375lk,False,20,247173,0.22,0.916,0.293,0.856,0.0736,-11.519,0.0349,96.366,0.165
+6jY2J811VMqU5L9mJpu4O7,Familia,['Yo-Yo Ma'],5Dl3HXZjG6ZOWT5cV375lk,False,10,237693,0.363,0.941,0.212,0.0187,0.122,-15.591,0.0363,98.211,0.433
+2iU1gVNf17kdxfszuW4qMv,Improvisation on Dona Nobis Pacem (Give Us Peace),"[""Paquito D'Rivera""]",30Mx3ZadPgGZTcs38FvYP8,False,9,152533,0.466,0.994,0.135,0.761,0.101,-18.391,0.0421,126.026,0.564
+5iqqeUrXyjNT0gbCYkYKR4,Goat Rodeo,"['Yo-Yo Ma', 'Stuart Duncan', 'Edgar Meyer', 'Chris Thile']",5Dl3HXZjG6ZOWT5cV375lk,False,0,258813,0.654,0.887,0.29,0.775,0.0881,-14.023,0.0595,112.465,0.265
+7ApcT63n16Iddxsy5cn7DZ,Is It a Crime,['The Moleskins'],4pi5AAtLwHbvLBypLmTYQe,False,25,258613,0.506,0.55,0.434,1.45e-05,0.155,-13.439,0.0857,99.417,0.49
+0exwfOMGtLHmFWVn9U9cgT,Song for Chico,"['Dafnis Prieto Big Band', 'Steve Coleman']",5SkSOkuxQOf9s83aS6DkPb,False,3,448035,0.505,0.676,0.738,0.321,0.0598,-7.373,0.14,92.709,0.662
+3KL71OfzGjSeNeMfPQ4w3V,Cuchifrito,['Carlos Henriquez'],7jDk9ohezXq697Zz5X2KPI,False,29,454291,0.546,0.571,0.535,0.846,0.108,-10.199,0.0561,80.789,0.649
+63SZUUY3IcCp1q7l5ix1IW,Every Time You Go Away,"['George Benson', 'Al Jarreau']",4N8BwYTEC6XqykGvXXlmfv,False,28,269746,0.705,0.436,0.574,1.52e-05,0.155,-8.488,0.0385,80.06,0.558
+2M7EflZCPCqqRLB9hy5MDy,Feels So Good,['Chuck Mangione'],2MMaIlHd8UvDW0mVRAncD6,False,50,582733,0.576,0.455,0.603,0.0537,0.0406,-9.603,0.0329,103.658,0.524
+3479939STf8aKddeiHtosd,Give It All You Got,['Chuck Mangione'],2MMaIlHd8UvDW0mVRAncD6,False,39,370866,0.544,0.0448,0.519,0.673,0.137,-11.718,0.0331,92.31,0.753
+7bM4Sgucn57IxRMNOUP9p0,Children Of Sanchez,"['Chuck Mangione', 'Don Potter']",2MMaIlHd8UvDW0mVRAncD6,False,36,848000,0.522,0.361,0.43,0.0642,0.349,-13.613,0.0469,115.275,0.406
+7rVW5PGA7fKq0J6WpErqay,Perfect Love...Gone Wrong,['Sting'],0Ty63ceoRnnJKVEYP0VQpk,False,21,324226,0.764,0.0819,0.56,0.0,0.112,-8.343,0.0858,88.968,0.479
+0ROK3zGcumMYL15NgMIigq,Qué Tal Mr. Barron,['Edgar Dorantes Trio'],57sclwezkMMLoICKlraA76,False,0,206320,0.506,0.578,0.516,0.941,0.145,-14.171,0.0347,114.548,0.906
+5MB24nrYX4rn7mZE9IQlP1,¡Azúcar!,['Hector Infanzon Quartet'],1bUtw4oSFb5KOHPPkn1KtS,False,0,353320,0.361,0.471,0.799,0.892,0.103,-9.483,0.0435,155.894,0.739
+4IdNIkKBn9LL5b2TFPUuoB,Night Birds,['Shakatak'],5FFtX4eFjh2vZQEl31d2XJ,False,35,262666,0.704,0.0831,0.804,0.000669,0.187,-6.961,0.0395,116.735,0.78

@@ -1,0 +1,51 @@
+id,name,artists,artistid,explicit,popularity,durationms,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence
+0wwPcA6wtMf6HUMpIRdeP7,Hotline Bling,['Drake'],3TVXtAsR1Inumwj472S9r4,False,76,267066,0.891,0.00258,0.628,0.00019,0.0504,-7.863,0.0551,134.966,0.552
+5NQbUaeTEOGdD6hHcre0dZ,679 (feat. Remy Boyz),"['Fetty Wap', 'Remy Boyz']",6PXS4YHDkKvl1wkIl4V8DL,True,73,196693,0.618,0.00256,0.717,0.0,0.625,-5.738,0.318,190.05,0.603
+1wHZx0LgzFHyeIZkUydNXq,Antidote,['Travis Scott'],0Y5tJX1MQlPlqiwlOH1tJY,True,71,262693,0.713,0.00767,0.526,0.000148,0.124,-5.046,0.032,131.05,0.131
+5RIVoVdkDLEygELLCniZFr,Watch Me (Whip / Nae Nae),['Silentó'],7juKTDFlPesGeWQ1GmjmOv,False,63,185142,0.821,0.247,0.759,0.0,0.321,-8.541,0.121,140.01,0.962
+3iVcZ5G6tvkXZkZKlMpIUs,Alright,['Kendrick Lamar'],2YZyLoL8N0Wb9xBt1NhZWg,True,79,219333,0.796,0.0742,0.766,0.0,0.0827,-5.974,0.238,110.034,0.558
+0kEZlJh4mK1QRfb3CT5LPk,Kill Yourself (Part III),['$uicideboy$'],1VPmR4DJC1PlOtd0IADAO0,True,77,145078,0.753,0.326,0.68,4.15e-05,0.423,-7.092,0.0349,105.977,0.192
+4jTiyLlOJVJj3mCr7yfPQD,This Could Be Us,['Rae Sremmurd'],7iZtZyCzp3LItcw1wtPI3D,True,76,206306,0.732,0.291,0.69,0.0,0.116,-4.992,0.134,143.072,0.758
+40YcuQysJ0KlGQTeGUosTC,"Me, Myself & I","['G-Eazy', 'Bebe Rexha']",02kJSzxNuaWGqwubyUba0Z,True,76,251466,0.756,0.0184,0.674,0.0,0.158,-6.518,0.0959,111.995,0.389
+6GnhWMhgJb7uyiiPEiEkDA,Weekend (feat. Miguel),"['Mac Miller', 'Miguel']",4LLpKhyESsyAXpc4laK94U,True,75,208080,0.843,0.47,0.435,0.0,0.147,-8.442,0.178,120.058,0.19
+6eT7xZZlB2mwyzJ2sUKG6w,White Iverson,['Post Malone'],246dkjvS1zLTtiykXe5h60,True,75,256533,0.675,0.233,0.562,0.0,0.0816,-7.678,0.0352,130.098,0.309
+51EC3I1nQXpec4gDk0mQyP,90210 (feat. Kacy Hill),"['Travis Scott', 'Kacy Hill']",0Y5tJX1MQlPlqiwlOH1tJY,True,77,339066,0.402,0.113,0.526,8.33e-06,0.105,-6.741,0.0904,81.404,0.312
+2N3U8uTYhjX2KwGT0pf5x0,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)","['A$AP Rocky', 'Rod Stewart', 'Miguel', 'Mark Ronson']",13ubrt8QOOCPljQ2FL1Kca,True,75,260986,0.394,0.00996,0.661,0.0,0.343,-8.684,0.192,149.818,0.335
+34oWbFBfGEElvgO0a5c9V4,No Flockin',['Kodak Black'],46SHBwWsqBkxI7EeeBEQG7,True,73,165290,0.943,0.0673,0.595,0.0,0.0839,-8.372,0.191,117.532,0.815
+0N3W5peJUQtI4eyR6GJT5O,King Kunta,['Kendrick Lamar'],2YZyLoL8N0Wb9xBt1NhZWg,True,73,234693,0.884,0.00589,0.657,0.0,0.154,-4.569,0.0977,107.059,0.489
+6tO5bxNnMuh1c3cziSpecA,Paris,['$uicideboy$'],1VPmR4DJC1PlOtd0IADAO0,True,76,111020,0.849,0.0706,0.648,0.00636,0.0984,-6.188,0.0835,106.058,0.195
+6rje9f1wRFJDO2iTORw0lH,I Know,"['Big Sean', 'Jhené Aiko']",0c173mlxpT3dSFRgMO8XPh,True,73,319973,0.733,0.327,0.334,0.0,0.116,-11.314,0.0811,119.935,0.267
+1Ser4X0TKttOvo8bgdytTP,Come Get Her,['Rae Sremmurd'],7iZtZyCzp3LItcw1wtPI3D,True,72,212946,0.689,0.187,0.564,0.0,0.0721,-6.226,0.136,185.023,0.123
+0k6DnZMLoEUH8NGD5zh2SE,Ayo,"['Chris Brown', 'Tyga']",7bXgB6jMjp9ATFy66eO08Z,True,71,225226,0.823,0.0399,0.563,0.0,0.0851,-5.095,0.0443,98.031,0.682
+79XrkTOfV1AqySNjVlygpW,Energy,['Drake'],3TVXtAsR1Inumwj472S9r4,True,70,181933,0.747,0.38,0.571,0.0,0.534,-7.916,0.478,172.104,0.553
+5tsI3xxDHDgzHhn30LTQNz,These Days,['mike.'],5G9kmDLg3OeUyj8KVBLzbu,True,69,268565,0.815,0.533,0.364,3.52e-05,0.108,-11.158,0.375,129.937,0.328
+0Y0TOsE1q11qgbi7c5WZsG,R.I.C.O. (feat. Drake),"['Meek Mill', 'Drake']",20sxb77xiYeusSH8cVdatc,True,68,197133,0.727,0.317,0.599,0.0,0.219,-6.941,0.327,167.909,0.386
+4S7YHmlWwfwArgd8LfSPud,L$D,['A$AP Rocky'],13ubrt8QOOCPljQ2FL1Kca,True,71,238306,0.598,0.194,0.252,0.133,0.0992,-15.086,0.0644,120.064,0.0352
+55Q46o5adtSobImSKrrlqW,Top,['Lil Uzi Vert'],4O15NlyKLIASxsJ0PrXPfz,True,68,236000,0.776,0.193,0.762,0.0,0.18,-4.356,0.216,120.039,0.678
+7FYH5AW3bVfZHJIQpq3UOA,I Don't Fuck With You,"['Big Sean', 'E-40']",0c173mlxpT3dSFRgMO8XPh,True,72,284386,0.824,0.0362,0.733,0.0,0.325,-5.474,0.0613,97.972,0.395
+6Yqmv7XJLCrQEauMbPGZSw,Maria I'm Drunk (feat. Justin Bieber & Young Thug),"['Travis Scott', 'Justin Bieber', 'Young Thug']",0Y5tJX1MQlPlqiwlOH1tJY,True,67,349933,0.648,0.377,0.631,0.0,0.12,-5.662,0.103,105.989,0.142
+4scpF6J5uMBvoh6sFB7EL1,No Type,['Rae Sremmurd'],7iZtZyCzp3LItcw1wtPI3D,True,70,200080,0.891,0.0158,0.486,3.78e-06,0.0925,-7.803,0.159,125.01,0.239
+27GmP9AWRs744SzKcpJsTZ,Jumpman,"['Drake', 'Future']",3TVXtAsR1Inumwj472S9r4,True,70,205879,0.852,0.0559,0.553,0.0,0.332,-7.286,0.187,142.079,0.656
+10I3CmmwT0BkOVhduDy53o,Really Really,['Kevin Gates'],1gPhS1zisyXr5dHTYZyiMe,True,67,232093,0.762,0.00427,0.666,0.0,0.127,-6.055,0.0916,118.97,0.278
+3WcC6NH9J77xPEvj1SOL7z,March Madness,['Future'],1RyvyyTE3xzB2ZywiAwp0i,True,66,244511,0.5,0.159,0.69,0.0,0.104,-4.448,0.312,180.206,0.371
+078C2jXg7XsMgW78Gfx1JA,SMUCKERS (feat. Lil Wayne & Kanye West),"['Tyler, The Creator', 'Lil Wayne', 'Kanye West']",4V8LLVI7PbaPR0K2TGSxFF,True,66,334363,0.427,0.015,0.849,0.00373,0.153,-2.945,0.348,79.155,0.55
+5pfJsMwoRYKampPay8amX0,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)","['Macklemore & Ryan Lewis', 'Macklemore', 'Ryan Lewis', 'Grandmaster Melle Mel', 'Grandmaster Caz', 'Kool Moe Dee', 'Eric Nally']",5BcAKTbp20cv7tC5VqPFoC,True,65,292593,0.828,0.0916,0.609,1.21e-06,0.291,-4.402,0.0694,109.725,0.707
+1j6kDJttn6wbVyMaM42Nxm,Lord Pretty Flacko Jodye 2 (LPFJ2),['A$AP Rocky'],13ubrt8QOOCPljQ2FL1Kca,True,70,126960,0.485,0.0123,0.72,0.0,0.0546,-5.991,0.127,207.982,0.0471
+3ESSGgWzRf1xvP7G5hHMhB,Again,['Fetty Wap'],6PXS4YHDkKvl1wkIl4V8DL,True,65,312240,0.748,0.0062,0.733,0.0,0.329,-4.421,0.072,93.019,0.291
+388jD8ko9cvFM9cd9TYDrl,ROS,['Mac Miller'],4LLpKhyESsyAXpc4laK94U,True,65,343213,0.535,0.601,0.448,0.0,0.376,-8.919,0.175,120.554,0.284
+1SGt65i9AnXYdDQt1AtDRH,3500 (feat. Future & 2 Chainz),"['Travis Scott', 'Future', '2 Chainz']",0Y5tJX1MQlPlqiwlOH1tJY,True,64,461840,0.773,0.114,0.595,2.47e-06,0.13,-6.062,0.161,123.968,0.338
+5lFDtgWsjRJu8fPOAyJIAK,Back To Back,['Drake'],3TVXtAsR1Inumwj472S9r4,True,68,170637,0.893,0.00855,0.48,0.0,0.116,-3.728,0.356,86.976,0.382
+0wdKiSBUT7aZkXUIdJWcwC,2 Phones,['Kevin Gates'],1gPhS1zisyXr5dHTYZyiMe,True,66,240000,0.895,0.157,0.681,0.0,0.189,-5.267,0.358,121.918,0.554
+46CA1H0T1r7u5lDUtVveAh,"FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)","['Tyler, The Creator', 'Charlie Wilson', 'Chaz Bundick', 'Syd', 'Kali Uchis']",4V8LLVI7PbaPR0K2TGSxFF,True,65,401572,0.232,0.032,0.705,6.6e-05,0.185,-6.928,0.0997,74.28,0.352
+5nN8BwAQDJDguq7Dpd3JQQ,Where Ya At (feat. Drake),"['Future', 'Drake']",1RyvyyTE3xzB2ZywiAwp0i,True,64,208026,0.813,0.0933,0.453,0.0,0.14,-6.941,0.338,161.997,0.191
+1WoOzgvz6CgH4pX6a1RKGp,My Way (feat. Monty),"['Fetty Wap', 'Monty']",6PXS4YHDkKvl1wkIl4V8DL,True,64,213053,0.748,0.00419,0.741,0.0,0.147,-3.103,0.0531,128.077,0.537
+5InOp6q2vvx0fShv3bzFLZ,Know Yourself,['Drake'],3TVXtAsR1Inumwj472S9r4,True,67,275840,0.72,0.196,0.412,0.0,0.342,-8.687,0.223,114.408,0.179
+6R0GRYk2vs2XuBVemYK5YZ,Ultimate,['Denzel Curry'],6fxyWrfmjcbj5d12gXeiNV,True,63,189974,0.493,0.095,0.826,3.42e-06,0.252,-3.106,0.311,112.865,0.75
+4uQ7wYsuL0DryknoDc11Hk,Norf Norf,['Vince Staples'],68kEuyFKyqrdQQLLsmiatm,True,63,183160,0.925,0.396,0.549,0.000154,0.11,-6.572,0.0656,100.014,0.0904
+5uqphUYsR45kPYplrYSAQh,Throw Sum Mo,"['Rae Sremmurd', 'Nicki Minaj', 'Young Thug']",7iZtZyCzp3LItcw1wtPI3D,True,63,260453,0.859,0.0388,0.627,0.000202,0.101,-7.91,0.13,142.062,0.594
+49zD0wr2S3d0lZPib0K4e1,F*ck Up Some Commas,['Future'],1RyvyyTE3xzB2ZywiAwp0i,True,64,237400,0.874,0.0698,0.568,1.38e-05,0.149,-5.896,0.224,139.995,0.46
+1jk9c0gZI0wbn5GvAj7PBV,Check,['Young Thug'],50co4Is1HCEo8bhOyUWKpn,True,63,230693,0.667,0.0428,0.581,0.0,0.183,-5.164,0.323,110.953,0.368
+4T0ScSPdQKmGvruK7pavNP,"Flex (Ooh, Ooh, Ooh)",['Rich Homie Quan'],5lHRUCqkQZCIWeX7xG4sYT,True,63,176744,0.726,0.0389,0.607,0.0,0.19,-7.68,0.0498,81.997,0.891
+7MkysLvt3L8UFji2PceoFU,Molly (feat. Brendon Urie of Panic at the Disco),"['Lil Dicky', 'Brendon Urie']",1tqhsYv8yBBdwANFNzHtcr,True,62,244339,0.829,0.203,0.514,0.000157,0.115,-6.694,0.037,114.955,0.397
+4z0PnuB07fxtVZZRWsCfxb,100 Grandkids,['Mac Miller'],4LLpKhyESsyAXpc4laK94U,True,62,278506,0.735,0.371,0.749,0.0,0.47,-3.766,0.0874,93.718,0.373
+1bxEpNR75Hq3T2oF9AZjt8,u,['Kendrick Lamar'],2YZyLoL8N0Wb9xBt1NhZWg,True,62,268493,0.406,0.26,0.798,0.0,0.461,-5.585,0.432,71.547,0.58
